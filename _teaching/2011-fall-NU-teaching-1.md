@@ -7,5 +7,5 @@ venue: "Nazarbayev University"
 date: 2011-09-01
 location: "Kazakhstan"
 ---
-    * Pre-Calculus, Calculus I, Calculus II, Calculus III (2011-2013)
-    * Discrete Mathematics (2012)
+  * Pre-Calculus, Calculus I, Calculus II, Calculus III (2011-2013)
+  * Discrete Mathematics (2012)
