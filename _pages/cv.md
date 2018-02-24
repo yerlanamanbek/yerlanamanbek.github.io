@@ -12,9 +12,9 @@ Also available in pdf format [link](/files/documents/CV_Yerlan.pdf).
 
 Education
 ======
-* Ph.D in Computational Science, Engineering & Mathematics, The University of Texas at Austin.
-* M.Sc. in  IT, Nanyang Technological University, Singapore, 2009
-* B.Sc. in Applied Mathematics and Computer Science, Kazakh National University,Kazakhstan, 2006
+* Ph.D in Computational Science, Engineering & Mathematics, [The University of Texas at Austin](https://www.utexas.edu/){:target="_blank"}.
+* M.Sc. in  IT, [Nanyang Technological University](http://www.ntu.edu.sg){:target="_blank"}, Singapore, 2009
+* B.Sc. in Applied Mathematics and Computer Science, [Al-Farabi Kazakh National University](http://kaznu.kz/en){:target="_blank"},Kazakhstan, 2006
 
 Work experience
 ======
