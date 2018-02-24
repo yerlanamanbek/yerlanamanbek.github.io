@@ -11,11 +11,3 @@ location: "City, Country"
 - _College of Natural Sciences Graduate Concentration in Undergraduate Teaching and Mentoring_: an introduction to training in effective mentoring.
 - _Teaching Preparation Series Certificate_
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
