@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2011-fall-NU-teaching-1
 venue: "Nazarbayev University, Math Department"
-date: 2011-2013
+date: 2011-09-01
 location: "Kazakhstan"
 ---
 
