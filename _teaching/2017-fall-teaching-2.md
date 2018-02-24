@@ -2,9 +2,9 @@
 title: "Professional Development"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
+permalink: /teaching/2017-Professional-Development
+venue: "The University of Texas at Austin"
+date: 2017-09-01
 location: "City, Country"
 ---
 
