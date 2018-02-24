@@ -1,7 +1,7 @@
 ---
 title: "The University of Texas at Austin"
 collection: teaching
-type: "graduate course"
+type: "Graduate course"
 permalink: /teaching/2016-fall-UT-teaching
 venue: "The University of Texas at Austin"
 date: 2016-09-01
