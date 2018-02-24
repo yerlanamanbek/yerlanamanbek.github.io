@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-Also available in pdf format [link](/files/documents/CV_Yerlan.pdf).
+Also available in  [pdf format](/files/documents/CV_Yerlan.pdf).
 
 Education
 ======
