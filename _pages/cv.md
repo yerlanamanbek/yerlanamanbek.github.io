@@ -15,6 +15,14 @@ Education
 * M.S. in Jekyll, Github University, 2014
 * Ph.D in Version Control Theory, Github University, 2018 (expected)
 
+Download from [here](/files/documents/CV_Yerlan.pdf).
+
+<object data="/files/documents/CV_Yerlan.pdf" type="application/pdf" width="100%" height="70px"> 
+  <p>It appears you don't have a pdf plugin for this browser.
+  You can <a href="/assets/documents/CV_Yerlan.pdf">click here to
+  download the pdf file.</a></p>  
+</object>
+
 Work experience
 ======
 * Summer 2015: Research Assistant
