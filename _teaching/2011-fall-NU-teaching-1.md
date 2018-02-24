@@ -7,13 +7,9 @@ venue: "Nazarbayev University, Math Department"
 date: 2011-09-01
 location: "Kazakhstan"
 ---
-##### Instructor
-
-  -Calculus I (2013)
-  
-##### Teaching Assistant
-
-	- Pre-Calculus, Calculus I, Calculus II, Calculus III (2011-2013)
-	- Discrete Mathematics (2012)
-
+  * Instructor
+      * Calculus I (2013)
+  * Teaching Assistant
+      * Pre-Calculus, Calculus I, Calculus II, Calculus III (2011-2013)
+	  * Discrete Mathematics (2012)
 ---
