@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Nazarbayev University (2011-2013)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2011-fall-NU-teaching-1
