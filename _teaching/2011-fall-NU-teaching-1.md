@@ -1,5 +1,5 @@
 ---
-title: "Teaching 1"
+title: ""
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2011-fall-NU-teaching-1
