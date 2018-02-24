@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Yerlan Amanbek"
-  avatar           : "/assets/images/ava_Yerlan.jpg"
+  avatar           : "/images/ava_Yerlan.jpg"
   bio              : "Computational Science & Engineering, Numerical Analysis & Applications"
   location         : "Austin, Texas, USA"
   employer         :
