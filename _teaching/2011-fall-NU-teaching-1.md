@@ -7,7 +7,6 @@ venue: "Nazarbayev University, Math Department"
 date: 2011-09-01
 location: "Kazakhstan"
 ---
-{% include base_path %}
 Instructor
 ===
   -Calculus I (2013)
