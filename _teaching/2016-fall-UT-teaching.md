@@ -1,5 +1,5 @@
 ---
-title: "The University of Texas at Austin"
+title: "Teaching Assistant"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2016-fall-UT-teaching
