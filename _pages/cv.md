@@ -12,9 +12,9 @@ Also available in pdf format [link](/files/documents/CV_Yerlan.pdf).
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* Ph.D in Computational Science, Engineering & Mathematics, The University of Texas at Austin.
+* M.Sc. in  IT, Nanyang Technological University, Singapore, 2009
+* B.Sc. in Applied Mathematics and Computer Science, Kazakh National University,Kazakhstan, 2006
 
 Work experience
 ======
