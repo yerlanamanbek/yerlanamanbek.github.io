@@ -19,5 +19,3 @@ Teaching Assistant
 - Pre-Calculus, Calculus I, Calculus II, Calculus III (2011-2013)
 - Discrete Mathematics (2012)
 
-Heading 3
-======
