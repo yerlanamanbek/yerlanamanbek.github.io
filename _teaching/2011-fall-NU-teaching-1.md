@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant (2011-2013)"
+title: "Teaching Assistant at NU (2011-2013)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2011-fall-NU-teaching-1

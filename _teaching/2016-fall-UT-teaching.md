@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant"
+title: "Teaching Assistant at UT"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2016-fall-UT-teaching

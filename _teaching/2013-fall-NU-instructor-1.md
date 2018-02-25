@@ -1,5 +1,5 @@
 ---
-title: "Instructor"
+title: "Instructor at NU"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2013-fall-NU-instructor-1
