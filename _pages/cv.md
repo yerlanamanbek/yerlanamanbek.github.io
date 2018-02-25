@@ -28,23 +28,32 @@ Recent Awards
 * SIAM Travel Award, USA, 2017
 * CIME-Foundation and CIRM Grant, Italy, 2016
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>  
 
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+
+Service
+======
+* Leader of the Nazarbayev University Team at 19th & 20th International Mathematics
+Competition for University Students, Blagoevgrad, Bulgaria 2012 and 2013
+  * Organized selection process with Professors from different schools.
+  * Mentored students during preparation, coordinated the process team trip and
+performance of team.
+  * As result, the most participations were awarded with [medals](https://nu.edu.kz/news/nazarbayev-university-students-won-a-silver-medal-at-international-mathematical-competition){:target="_blank"}.
 
 Skills
 ======
