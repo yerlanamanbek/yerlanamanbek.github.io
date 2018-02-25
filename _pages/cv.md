@@ -23,10 +23,10 @@ a posteriori and a priorri error analysis, robust and efficient solution algorit
 
 Recent Awards
 ======
-* Texas Applied Math & Eng Symposium (TAMES) Poster Award, USA 2017
-* Research Experience Carbon Sequestration Program Award, USA 2017
-* SIAM Travel Award, USA 2017
-* CIME-Foundation and CIRM Grant, Italy 2016
+* Texas Applied Math & Eng Symposium (TAMES) Poster Award, USA, 2017
+* Research Experience Carbon Sequestration Program Award, USA, 2017
+* SIAM Travel Award, USA, 2017
+* CIME-Foundation and CIRM Grant, Italy, 2016
 
 Publications
 ======
