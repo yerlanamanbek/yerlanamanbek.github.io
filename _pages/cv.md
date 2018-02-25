@@ -21,6 +21,13 @@ Research Interests
 _Numerical modeling_: domain decomposition, discretization schemes, multiscale methods,
 a posteriori and a priorri error analysis, robust and efficient solution algorithms.
 
+Recent Awards
+======
+* Texas Applied Math & Eng Symposium (TAMES) Poster Award, USA 2017
+* Research Experience Carbon Sequestration Program Award, USA 2017
+* SIAM Travel Award, USA 2017
+* CIME-Foundation and CIRM Grant, Italy 2016
+
 
 Work experience
 ======
@@ -38,7 +45,7 @@ ow and transport in heterogeneous
 porous media problems. Poster was presented in SIAM Conference on Computational
 Science and Engineering at Atlanta.
     * Developed a posteriori error estimate for EVMFEM. This is a great in practical
-applications in adaptive mesh renement.
+applications in adaptive mesh refinement.
     * Presented research outcomes to industry professionals.
   * Github University
   * Duties included: Tagging issues
