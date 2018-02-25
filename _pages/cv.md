@@ -16,6 +16,12 @@ Education
 * M.Sc. in  IT, [Nanyang Technological University](http://www.ntu.edu.sg){:target="_blank"}, Singapore, 2009
 * B.Sc. in Applied Mathematics and Computer Science, [Al-Farabi Kazakh National University](http://kaznu.kz/en){:target="_blank"}, Kazakhstan, 2006
 
+Research Interests
+======
+_Numerical modeling_: domain decomposition, discretization schemes, multiscale methods,
+a posteriori and a priorri error analysis, robust and ecient solution algorithms.
+
+
 Work experience
 ======
   * 2014-: Research Assistant Center for Subsurface Modeling, Institute for Computational Engineering
