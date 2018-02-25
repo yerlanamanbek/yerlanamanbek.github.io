@@ -20,20 +20,20 @@ Work experience
 ======
   * 2014-: Research Assistant Center for Subsurface Modeling, Institute for Computational Engineering
 and Sciences(ICES)
-  * Developed adaptive numerical homogenization method for 
+    * Developed adaptive numerical homogenization method for 
 ow and transport
 model at reduced computational cost. Poster of this work was awarded in the
 Texas Applied Math & Eng Symposium.
-  * Derived and conducted a priori error analysis for slightly compressible 
+    * Derived and conducted a priori error analysis for slightly compressible 
 ow
 using EVMFEM in continuous and discrete time cases.
-  * Time domain decomposition methods for 
+    * Time domain decomposition methods for 
 ow and transport in heterogeneous
 porous media problems. Poster was presented in SIAM Conference on Computational
 Science and Engineering at Atlanta.
-  * Developed a posteriori error estimate for EVMFEM. This is a great in practical
+    * Developed a posteriori error estimate for EVMFEM. This is a great in practical
 applications in adaptive mesh renement.
-  * Presented research outcomes to industry professionals.
+    * Presented research outcomes to industry professionals.
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
