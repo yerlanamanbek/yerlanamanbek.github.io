@@ -19,7 +19,7 @@ Education
 Research Interests
 ======
 _Numerical modeling_: domain decomposition, discretization schemes, multiscale methods,
-a posteriori and a priorri error analysis, robust and ecient solution algorithms.
+a posteriori and a priorri error analysis, robust and efficient solution algorithms.
 
 
 Work experience
