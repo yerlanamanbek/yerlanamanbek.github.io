@@ -19,8 +19,8 @@ Posters
 ====
 * "Adaptive Numerical Homogenization for Upscaling Single Phase Flow and
 Transport", Y. Amanbek, G. Singh and M. F. Wheeler, Texas Applied Mathematics
-and Engineering Symposium (TAMES), September 21-23, 2017, Austin, Texas.
+and Engineering Symposium (TAMES), September 21-23, 2017, Austin, Texas. [Download](https://figshare.com/articles/Adaptive_Numerical_Homogenization_for_Upscaling_Single_Phase_Flow_Transport/5414203){:target="_blank"}
 
 * "Selective Time-stepping adaptivity for Non-Linear Reactive Transport Problems",
 Y. Amanbek, G. Singh and M. F. Wheeler, SIAM Conference on Computational
-Science and Engineering (CSE17), February 26-March 3, 2017, Atlanta, Georgia.
+Science and Engineering (CSE17), February 26-March 3, 2017, Atlanta, Georgia. [Download](https://figshare.com/articles/poster_siam_cse17_adaptive_time_print_version_pdf/4702549){:target="_blank"}
