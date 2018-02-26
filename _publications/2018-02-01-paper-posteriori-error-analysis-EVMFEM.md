@@ -5,7 +5,7 @@ permalink: /publication/2018-02-01-paper-posteriori-error-analysis-EVMFEM
 excerpt: ''
 date: 2018-02-01
 venue: 'in preparation'
-paperurl: ''
+paperurl: 'www.ices.utexas.edu'
 citation: 'Amanbek, Y., Singh, G., Pencheva, G. and Wheeler, M.F. "A posteriori error estimates for Enhanced Velocity MixedFEM for 
 flow problems in heterogeneous porous media.(in preparation)"
 ---
