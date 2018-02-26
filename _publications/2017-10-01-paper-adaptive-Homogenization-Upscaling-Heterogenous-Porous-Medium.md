@@ -13,7 +13,7 @@ Conference and Exhibition, Oct 9-11, 2017, San Antonio, Texas.'
 ---
 
 
-#[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://doi.org/10.2118/187113-MS)
 
 Recommended citation: Singh, G., Amanbek, Y. and Wheeler, M. F. "Adaptive Homogenization for
 Upscaling Heterogeneous Porous Medium" SPE-187113-MS, SPE Annual Technical
