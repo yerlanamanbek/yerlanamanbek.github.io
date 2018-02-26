@@ -20,6 +20,9 @@ analysis, scientific computing, computational transport phenomena and numerical 
 My Ph.D. work has given me an opportunity to study these problems theoretically and numerically by
 taking into account experimental laboratory data work.
 
+
+Research
+=====
 Subsurface reservoir flow and reactive transport modeling is important in many subsurface applications
 such as Enhanced Oil Recovery (EOR), CO2 sequestration, groundwater remediation as well as contaminant
 plume migration in heterogeneous porous media. As Doctoral candidate, I am working on these projects:
