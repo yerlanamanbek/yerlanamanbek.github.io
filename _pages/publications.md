@@ -15,11 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
----
-#layout: archive
-title: "Posters"
-permalink: /posters/
----
+## Posters
 
 {% for post in site.posters reversed %}
   {% include archive-single.html %}
