@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-Posters
+Recent Posters
 ====
 * "Adaptive Numerical Homogenization for Upscaling Single Phase Flow and
 Transport", Y. Amanbek, G. Singh and M. F. Wheeler, Texas Applied Mathematics
