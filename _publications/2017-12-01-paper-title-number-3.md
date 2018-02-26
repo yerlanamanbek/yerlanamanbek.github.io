@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2017-12-01
-venue: 'Journal 1'
+venue: 'ICES'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Amanbek, Y., Singh, G., and Wheeler, M. F. "Adaptive Numerical Homogenization
 for Upscaling Single Phase Flow and Transport", ICES Report, 12 (17). (submitted)'
