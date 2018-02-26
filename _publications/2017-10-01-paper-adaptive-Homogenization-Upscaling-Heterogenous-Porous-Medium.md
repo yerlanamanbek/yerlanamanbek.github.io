@@ -11,7 +11,7 @@ citation: 'Singh, G., Amanbek, Y. and Wheeler, M. F. "Adaptive Homogenization fo
 Upscaling Heterogeneous Porous Medium" SPE-187113-MS, SPE Annual Technical
 Conference and Exhibition, Oct 9-11, 2017, San Antonio, Texas.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+
 
 #[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
