@@ -23,13 +23,15 @@ taking into account experimental laboratory data work.
 Subsurface reservoir flow and reactive transport modeling is important in many subsurface applications
 such as Enhanced Oil Recovery (EOR), CO2 sequestration, groundwater remediation as well as contaminant
 plume migration in heterogeneous porous media.
+
 As Doctoral candidate, I am working on these projects:
-	1. Developing a new adaptive numerical homogenization method to handle multiscale nature of flow and
+
+1. Developing a new adaptive numerical homogenization method to handle multiscale nature of flow and
 	transport problems of heterogeneous subsurface
-	2. A priori analysis for slightly compressible flow using Enhanced Velocity Mixed Finite Element Method
+2. A priori analysis for slightly compressible flow using Enhanced Velocity Mixed Finite Element Method
 	(EVMFEM).
-	3. A posteriori error analysis for slightly compressible flow problems using EVMFEM
-	4. Time domain decomposition methods for flow and transport in heterogeneous porous media problems
+3. A posteriori error analysis for slightly compressible flow problems using EVMFEM
+4. Time domain decomposition methods for flow and transport in heterogeneous porous media problems
 	
 In addition, I was selected to attend Research Experience Carbon Sequestration program 2017
 and this program gave me opportunity to explore the important stages of Carbon Capture, Utilization
