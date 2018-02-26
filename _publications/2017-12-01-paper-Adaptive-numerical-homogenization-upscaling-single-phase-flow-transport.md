@@ -2,7 +2,7 @@
 title: "Adaptive Numerical Homogenization for Upscaling Single Phase Flow and Transport"
 collection: publications
 permalink: /publication/2017-12-01-paper-Adaptive-numerical-homogenization-upscaling-single-phase-flow-transport
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: ''
 date: 2017-12-01
 venue: 'ICES report'
 paperurl: 'https://www.ices.utexas.edu/media/reports/2017/1712.pdf'
