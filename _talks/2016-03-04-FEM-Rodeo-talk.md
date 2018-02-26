@@ -5,5 +5,5 @@ type: "Talk"
 permalink: /talks/2016-03-04-FEM-Rodeo-talk
 venue: "Finite Element Rodeo, Texas A&M"
 date: 2016-03-04
-location: "College Station, Texas."
+location: "College Station, Texas, USA"
 ---
