@@ -2,7 +2,7 @@
 title: "Upscaling Flow and Transport using Two-Scale Homogenization"
 collection: talks
 type: "Talk"
-permalink: /talks/2012-03-01-talk-1
+permalink: /talks/2016-03-04-FEM-Rodeo-talk
 venue: "Finite Element Rodeo, Texas A&M"
 date: 2016-03-04
 location: "College Station, Texas."
