@@ -1,7 +1,7 @@
 ---
 title: "Adaptive Numerical Homogenization for Upscaling Single Phase Flow and Transport"
 collection: publications
-permalink: /publication/2017-12-01-paper-Adaptive-numerical-homogenization-upscaling-single-phase-flow-transport
+permalink: /posters/2017-12-01-paper-Adaptive-numerical-homogenization-upscaling-single-phase-flow-transport
 excerpt: ''
 date: 2017-12-01
 venue: 'ICES report'

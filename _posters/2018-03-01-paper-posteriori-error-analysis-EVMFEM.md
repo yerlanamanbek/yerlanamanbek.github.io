@@ -1,7 +1,7 @@
 ---
 title: "A posteriori error estimates for Enhanced Velocity MixedFEM for flow problems in heterogeneous porous media"
 collection: publications
-permalink: /publication/2018-03-01-paper-posteriori-error-analysis-EVMFEM
+permalink: /posters/2018-03-01-paper-posteriori-error-analysis-EVMFEM
 excerpt: ''
 date: 2018-03-01
 venue: 'preparation'
