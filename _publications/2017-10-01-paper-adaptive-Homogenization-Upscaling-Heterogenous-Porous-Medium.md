@@ -2,7 +2,7 @@
 title: "Adaptive Homogenization for Upscaling Heterogeneous Porous Medium"
 collection: publications
 permalink: /publication/2017-10-01-paper-adaptive-Homogenization-Upscaling-Heterogenous-Porous-Medium
-excerpt: ''
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2017-10-01
 venue: 'SPE Annual Technical
 Conference and Exhibition'
