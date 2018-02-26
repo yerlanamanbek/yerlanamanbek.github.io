@@ -6,11 +6,11 @@ excerpt: ''
 date: 2018-02-01
 venue: 'in preparation'
 paperurl: ''
-citation: 'Amanbek, Y., Singh, G., Pencheva, G. and Wheeler, M.F. 'A posteriori error estimates for Enhanced Velocity MixedFEM for 
-flow problems in heterogeneous porous media.(in preparation)'
+citation: 'Amanbek, Y., Singh, G., Pencheva, G. and Wheeler, M.F. "A posteriori error estimates for Enhanced Velocity MixedFEM for 
+flow problems in heterogeneous porous media.(in preparation)"
 ---
 
 
-Recommended citation: Amanbek, Y., Singh, G., Pencheva, G. and Wheeler, M.F. 'A posteriori error estimates for Enhanced Velocity MixedFEM for 
-ow problems in heterogeneous porous media.(in preparation)'
+Recommended citation: Amanbek, Y., Singh, G., Pencheva, G. and Wheeler, M.F. "A posteriori error estimates for Enhanced Velocity MixedFEM for 
+ow problems in heterogeneous porous media.(in preparation)"
 
