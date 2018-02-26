@@ -55,7 +55,7 @@ Competition for University Students, Blagoevgrad, Bulgaria 2012 and 2013
 performance of team.
   * As result, the most participations were awarded with [medals](https://nu.edu.kz/news/nazarbayev-university-students-won-a-silver-medal-at-international-mathematical-competition){:target="_blank"}.
 
-Skills
+< Skills
 ======
 * Skill 1
 * Skill 2
@@ -94,3 +94,4 @@ and Sciences(ICES)
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
+ > 
