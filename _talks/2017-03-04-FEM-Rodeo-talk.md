@@ -1,7 +1,7 @@
 ---
 title: "Modeling flow and transport using Enhanced Velocity Mixed FEM and Numerical Homogenization"
 collection: talks
-type: "talk"
+type: "presentation"
 permalink: /talks/2017-03-04-FEM-Rodeo-talk
 venue: "Finite Element Rodeo, University of Houston"
 date: 2017-03-04
