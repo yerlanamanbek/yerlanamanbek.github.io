@@ -27,7 +27,7 @@ taking into account experimental laboratory data work.
 
 <figure>
   <div class="image_resize">
-  <img src="/images/animations/posteriori_upper_bound_velocity.gif"  height="40" alt="">
+  <img src="/images/animations/posteriori_upper_bound_velocity.gif"  alt="">
   <figcaption> A posteriori error estimates for velocity in flow through heterogeneous porous media</figcaption>
   </div>
 </figure>
