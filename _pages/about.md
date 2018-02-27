@@ -24,6 +24,7 @@ taking into account experimental laboratory data work.
   <img src="/images/animations/SPE10_L37_simulation.gif" alt="">
   <figcaption> Numerical reservoir simulation</figcaption>
 </figure>
+
 Research
 =====
 Subsurface reservoir flow and reactive transport modeling is important in many subsurface applications
