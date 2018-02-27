@@ -399,3 +399,10 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+    .image_resize {
+        width:260px;
+    }
+    .image_resize img {
+        width:60%;
+    }
