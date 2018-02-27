@@ -12,6 +12,11 @@ I am a Ph.D. candidate in Computational Science, Engineering and Mathematics (CS
 the [Institute for Computational Engineering and Sciences (ICES)](https://www.ices.utexas.edu/){:target="_blank"}  in the The University of Texas at Austin, 
 where I am at the [Center for Subsurface Modeling](http://csm.ices.utexas.edu/){:target="_blank"} and I was supervised by [Professor Mary Wheeler](http://users.ices.utexas.edu/~mfw/){:target="_blank"}.
 
+<figure>
+  <img src="/images/animations/SPE10_L37_simulation.gif" alt="">
+  <figcaption> Numerical reservoir simulation</figcaption>
+</figure>
+
 My research interest brings together interdisciplinary areas of mathematics, physics, engineering and
 computational science. In particularly, my research focuses on the numerical analysis of partial differential
 systems that arise in subsurface phenomena using mathematical modeling and scientific computation.
@@ -21,8 +26,8 @@ My Ph.D. work has given me an opportunity to study these problems theoretically 
 taking into account experimental laboratory data work.
 
 <figure>
-  <img src="/images/animations/SPE10_L37_simulation.gif" alt="">
-  <figcaption> Numerical reservoir simulation</figcaption>
+  <img src="/images/animations/posteriori_upper_bound_velocity" alt="">
+  <figcaption> A posteriori error estimates for velocity in flow through heterogeneous porous media</figcaption>
 </figure>
 
 Research
