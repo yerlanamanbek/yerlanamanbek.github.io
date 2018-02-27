@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-Also full CV is available in [pdf format](/files/documents/CV_Yerlan.pdf).
+Also full CV is available in [pdf format](/files/documents/CV_Yerlan.pdf){:target="_blank"}.
 
 Education
 =====
