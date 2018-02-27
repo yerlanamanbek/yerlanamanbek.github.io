@@ -30,8 +30,8 @@ taking into account experimental laboratory data work.
   <p align="center">
   <div class="image_resize">
   <img src="/images/animations/actual_error_velocity.gif"  alt="">
-  <figcaption> A posteriori error estimates for velocity in flow through heterogeneous porous media</figcaption>
   </div>
+  <figcaption> A posteriori error estimates for velocity in flow through heterogeneous porous media</figcaption>
   </p>
 </figure>
 
