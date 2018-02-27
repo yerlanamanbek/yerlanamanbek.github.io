@@ -20,7 +20,10 @@ analysis, scientific computing, computational transport phenomena and numerical 
 My Ph.D. work has given me an opportunity to study these problems theoretically and numerically by
 taking into account experimental laboratory data work.
 
-
+<figure>
+  <img src="/images/animations/SPE10_L37_simulation.gif" alt="">
+  <figcaption> Numerical reservoir simulation</figcaption>
+</figure>
 Research
 =====
 Subsurface reservoir flow and reactive transport modeling is important in many subsurface applications
