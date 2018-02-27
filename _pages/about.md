@@ -14,7 +14,7 @@ where I am at the [Center for Subsurface Modeling](http://csm.ices.utexas.edu/){
 
 <figure>
   <img src="/images/animations/SPE10_L37_simulation.gif" alt="">
-  <figcaption> Numerical reservoir simulation</figcaption>
+  <figcaption> Numerical reservoir tracer simulation for SPE10 datasets</figcaption>
 </figure>
 
 My research interest brings together interdisciplinary areas of mathematics, physics, engineering and
