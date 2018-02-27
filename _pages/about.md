@@ -26,7 +26,7 @@ My Ph.D. work has given me an opportunity to study these problems theoretically 
 taking into account experimental laboratory data work.
 
 <figure>
-  <img src="/images/animations/posteriori_upper_bound_velocity.gif" alt="">
+  <img src="/images/animations/posteriori_upper_bound_velocity.gif"  height="40" alt="">
   <figcaption> A posteriori error estimates for velocity in flow through heterogeneous porous media</figcaption>
 </figure>
 
