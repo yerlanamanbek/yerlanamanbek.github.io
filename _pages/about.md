@@ -44,7 +44,7 @@ plume migration in heterogeneous porous media. As Doctoral candidate, I am worki
 	transport problems of heterogeneous subsurface
 2. A priori analysis for slightly compressible flow using Enhanced Velocity Mixed Finite Element Method
 	(EVMFEM).
-3. A posteriori error analysis for slightly compressible flow problems using EVMFEM
+3. A posteriori error analysis for incompressible flow problems using EVMFEM
 4. Time domain decomposition methods for flow and transport in heterogeneous porous media problems
 	
 In addition, I was selected to attend Research Experience Carbon Sequestration program 2017
