@@ -17,9 +17,9 @@ author_profile: true
 
 Recent Posters
 ====
-* "Adaptive Numerical Homogenization for Upscaling Single Phase Flow and
+* <span style="color:blue"> Best Poster Award. </span> "Adaptive Numerical Homogenization for Upscaling Single Phase Flow and
 Transport", Y. Amanbek, G. Singh and M. F. Wheeler, Texas Applied Mathematics
-and Engineering Symposium (TAMES), September 21-23, 2017, Austin, Texas. + Best Poster Award. [Link](https://figshare.com/articles/Adaptive_Numerical_Homogenization_for_Upscaling_Single_Phase_Flow_Transport/5414203){:target="_blank"}
+and Engineering Symposium (TAMES), September 21-23, 2017, Austin, Texas. [Link](https://figshare.com/articles/Adaptive_Numerical_Homogenization_for_Upscaling_Single_Phase_Flow_Transport/5414203){:target="_blank"}
 
 * "Selective Time-stepping adaptivity for Non-Linear Reactive Transport Problems",
 Y. Amanbek, G. Singh and M. F. Wheeler, SIAM Conference on Computational
