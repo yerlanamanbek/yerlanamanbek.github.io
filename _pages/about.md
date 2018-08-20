@@ -38,7 +38,7 @@ taking into account experimental laboratory data work.
 
 Research
 =====
-Subsurface reservoir flow and reactive transport modeling is important in many subsurface applications
+Subsurface reservoir flow and transport modeling is important in many subsurface applications
 such as Enhanced Oil Recovery (EOR), CO2 sequestration, groundwater remediation as well as contaminant
 plume migration in heterogeneous porous media. As Doctoral candidate, I am working on these projects:
 1. Developing a new adaptive numerical homogenization method to handle multiscale nature of flow and
