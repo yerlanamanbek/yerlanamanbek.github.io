@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Currently, I am a Postdoctoral Researcher at the Department of Mathematics, Nazarbayev University, Kazakhstan.
+I am currently a Postdoctoral Researcher at the Department of Mathematics, Nazarbayev University, Kazakhstan.
 
 I have received a Ph.D. in Computational Science, Engineering and Mathematics (CSEM) at 
 the [Institute for Computational Engineering and Sciences (ICES)](https://www.ices.utexas.edu/){:target="_blank"}  in the University of Texas at Austin, 
