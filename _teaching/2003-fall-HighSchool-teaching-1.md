@@ -1,5 +1,5 @@
 ---
-title: "Teaching Advance Math Courses"
+title: "Teaching Advance Math Courses (2003 - 2006)"
 collection: teaching
 type: "International/National Math Olympiad"
 permalink: /teaching/2003-fall-HighSchool-teaching-1
