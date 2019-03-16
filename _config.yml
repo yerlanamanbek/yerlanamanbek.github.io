@@ -83,7 +83,7 @@ author:
   bio              : "Computational Science & Engineering, Numerical Analysis & Applications"
   location         : "Austin, Texas, USA"
   employer         :
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=8HG8ZG4AAAAJ&hl=en&oi=ao" #"http://yourfullgooglescholarurl.com"
   email            : "yerlan@utexas.edu"
   uri              :
   bitbucket        :
