@@ -3,17 +3,16 @@ title: "Adaptive Numerical Homogenization for Upscaling Single Phase Flow and Tr
 collection: publications
 permalink: /publication/2017-12-01-paper-Adaptive-numerical-homogenization-upscaling-single-phase-flow-transport
 excerpt: ''
-date: 2019-02-14
+date: 2019-03-5
 venue: 'Journal of Computational Physics'
-paperurl: 'https://www.ices.utexas.edu/media/reports/2017/1712.pdf'
-citation: 'Amanbek, Y., Singh, G., Wheeler, M. F. and Duijn, H. "Adaptive Numerical Homogenization
-for Upscaling Single Phase Flow and Transport", ICES Report, 12 (17). (accepted to Journal of Computational Physics, 2019)'
+paperurl: 'https://doi.org/10.1016/j.jcp.2019.02.014'
+citation: 'Amanbek, Y., Singh, G., Wheeler, M. F., & van Duijn, H. (2019). Adaptive numerical homogenization for upscaling single phase flow and transport. Journal of Computational Physics.'
 ---
 <figure>
   <img src="/images/animations/SPE10_L37_simulation.gif" alt="">
   <figcaption> Numerical reservoir tracer simulation for SPE10 datasets</figcaption>
 </figure>
 
-[Download paper here](https://www.ices.utexas.edu/media/reports/2017/1712.pdf)
+[Download paper here](https://doi.org/10.1016/j.jcp.2019.02.014)
 
 
