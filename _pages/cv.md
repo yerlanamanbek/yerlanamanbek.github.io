@@ -49,6 +49,7 @@ Recent Talks
 
 Service
 ======
+* Leader of the Nazarbayev University Team at  Al-Khorezmi International Mathematical Olympiad 2018, Urgench, Uzbekistan
 * Leader of the Nazarbayev University Team at 19th and 20th International Mathematics
 Competition for University Students, Blagoevgrad, Bulgaria 2012 and 2013
   * Organized selection process with Professors from different schools.
