@@ -1,5 +1,5 @@
 ---
-title: "A posteriori error estimates for Enhanced Velocity MixedFEM for flow problems in heterogeneous porous media"
+title: "Error indicator for the incompressible Darcy flow problems using Enhanced Velocity Mixed Finite Element Method"
 collection: publications
 permalink: /publication/2019-04-11-paper-posteriori-error-analysis-EVMFEM
 excerpt: ''
