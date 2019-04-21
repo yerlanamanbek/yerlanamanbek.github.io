@@ -5,7 +5,7 @@ permalink: /publication/2018-12-12-paper-priori-error-analysis-discrete-time-and
 excerpt: ''
 date: 2018-12-12
 venue: 'submitted'
-paperurl: ''
+paperurl: 'https://arxiv.org/abs/1812.04809'
 citation: '"Amanbek, Y., & Wheeler, M. (2018). A priori error analysis for transient problems using Enhanced Velocity approach in the discrete-time setting. arXiv preprint arXiv:1812.04809."'
 ---
 

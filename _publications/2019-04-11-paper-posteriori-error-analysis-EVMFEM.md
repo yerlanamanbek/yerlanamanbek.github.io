@@ -5,7 +5,7 @@ permalink: /publication/2019-04-11-paper-posteriori-error-analysis-EVMFEM
 excerpt: ''
 date: 2019-04-11
 venue: 'submitted'
-paperurl: ''
+paperurl: 'https://arxiv.org/abs/1904.06188'
 citation: 'Amanbek, Y., Singh, G., Pencheva, G., & Wheeler, M. F. (2019). 
 Error indicator for the incompressible Darcy flow problems using Enhanced Velocity Mixed Finite Element Method. arXiv preprint arXiv:1904.06188.'
 ---
