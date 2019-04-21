@@ -12,7 +12,7 @@ Recovery of the Interface Velocity for the Incompressible Flow in Enhanced Veloc
 <figure>
   <p align="center">
   <div class="image_resize">
-  <img src="/images/animations/recovery_interface_velocity.png"  alt="">
+  <img src="/images/publications/recovery_interface_velocity.png"  alt="">
   <figcaption> The illustration of the velocity improvement at the interface using postprocessing. </figcaption>
   </div>
   </p>
