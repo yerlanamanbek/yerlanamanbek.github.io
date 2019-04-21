@@ -12,7 +12,7 @@ Recovery of the Interface Velocity for the Incompressible Flow in Enhanced Veloc
 <figure>
   <p align="center">
   <div class="image_resize">
-  <img src="/images/animations/actual_error_velocity.gif"  alt="">
+  <img src="/images/animations/recovery_interface_velocity.png"  alt="">
   <figcaption> A posteriori error estimates for velocity in flow through heterogeneous porous media</figcaption>
   </div>
   </p>
