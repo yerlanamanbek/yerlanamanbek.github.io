@@ -19,4 +19,4 @@ Recovery of the Interface Velocity for the Incompressible Flow in Enhanced Veloc
 </figure>
 
 
-ICCS is an [A-rank](http://portal.core.edu.au/conf-ranks/952/) conference in the CORE classification.
+ICCS is an [A-rank](http://portal.core.edu.au/conf-ranks/952/){:target="_blank"} conference in the CORE classification.
