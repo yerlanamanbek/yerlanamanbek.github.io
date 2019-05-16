@@ -43,7 +43,7 @@ Publications
 
 Recent Talks
 ======
-  <ul>{% for post in site.talks reversed limit:2%}
+  <ul>{% for post in site.talks reversed limit:3%}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
