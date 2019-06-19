@@ -6,7 +6,8 @@ excerpt: ''
 date: 2019-03-5
 venue: 'Journal of Computational Physics'
 paperurl: 'https://doi.org/10.1016/j.jcp.2019.02.014'
-citation: 'Y. Amanbek, G. Singh, M. F. Wheeler, H. van Duijn, Adaptive numerical homogenization for upscaling single phase flow and transport, Journal of Computational Physics 387 (2019) 117 – 133.'
+citation: 'Amanbek, Y., Singh, G., Wheeler, M. F., and van Duijn, H. (2019). "Adaptive Numerical Homogenization for Upscaling Single Phase Flow and Transport".
+Journal of Computational Physics, 387, 117 - 133.'
 ---
 <figure>
   <img src="/images/animations/SPE10_L37_simulation.gif" alt="">
