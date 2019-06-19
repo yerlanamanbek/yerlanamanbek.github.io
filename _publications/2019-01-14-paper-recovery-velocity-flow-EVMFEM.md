@@ -3,11 +3,10 @@ title: "Recovery of the Interface Velocity for the Incompressible Flow in Enhanc
 collection: publications
 permalink: /publication/2019-01-14-paper-recovery-velocity-flow-EVMFEM
 excerpt: ''
-date: 2019-01-15
+date: 2019-06-08
 venue: 'accepted ICCS 19, A-rank conference'
-paperurl: 'https://arxiv.org/abs/1901.04401'
-citation: 'Amanbek, Y., Singh, G., & Wheeler, M. F. (2019). 
-Recovery of the Interface Velocity for the Incompressible Flow in Enhanced Velocity Mixed Finite Element Method. arXiv preprint arXiv:1901.04401.'
+paperurl: 'https://doi.org/10.1007/978-3-030-22747-0_38'
+citation: 'Amanbek Y., Singh G., Wheeler M.F. (2019) Recovery of the Interface Velocity for the Incompressible Flow in Enhanced Velocity Mixed Finite Element Method. In: Rodrigues J. et al. (eds) Computational Science – ICCS 2019. ICCS 2019. Lecture Notes in Computer Science, vol 11539. Springer, Cham.'
 ---
 <figure>
   <p align="center">
