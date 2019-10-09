@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-Recent Posters
+Selected Posters
 ====
 * [Best Poster Award:](https://www.ices.utexas.edu/about/news/494/){:target="_blank"}{:target="_blank"} "Adaptive Numerical Homogenization for Upscaling Single Phase Flow and
 Transport", Y. Amanbek, G. Singh and M. F. Wheeler, Texas Applied Mathematics
