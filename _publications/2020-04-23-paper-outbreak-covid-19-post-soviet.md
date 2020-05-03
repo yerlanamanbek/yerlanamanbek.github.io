@@ -1,7 +1,7 @@
 ---
 title: "COVID-19 OUTBREAK IN POST-SOVIET STATES: MODELING THE BEST AND WORST POSSIBLE SCENARIOS"
 collection: publications
-permalink: /publication/2020-02-14-paper-error-indicators-analysis-EVMFEM
+permalink: /publication/2020-02-23-paper-outbreak-covid-19-post-soviet
 excerpt: ''
 date: 2020-02-14
 venue: 'medRxiv'
