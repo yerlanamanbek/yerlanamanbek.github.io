@@ -2,7 +2,7 @@
 title: "COVID-19 OUTBREAK IN POST-SOVIET STATES: MODELING THE BEST AND WORST POSSIBLE SCENARIOS"
 collection: publications
 permalink: /publication/2020-04-23-paper-outbreak-covid-19-post-soviet
-excerpt: ''
+excerpt: "<img src='/images/publications/covid19_post_soviet_model.png' style='float:left;width:300px;height:100px;'>"
 date: 2020-04-23
 venue: 'Electronic Journal of General Medicine'
 paperurl: 'https://doi.org/10.29333/ejgm/8346'
