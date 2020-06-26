@@ -2,7 +2,7 @@
 title: "Framework of Fracture Network Modeling using Conditioned Data with Sequential Gaussian Simulation"
 collection: publications
 permalink: /publication/2020-03-03-paper-fracture-network-modeling-SGS
-excerpt: "<br/><img src='/images/publications/fracture_network_modeling_SGS/Fig_13_c_FracPaq_simul.png' style='float:left;width:100px;height:100px;'>"
+excerpt: "<br/><img src='/images/publications/fracture_network_modeling_SGS/Fig_13_c_FracPaq_simul.png' style='float:left;width:150px;height:150px;'>"
 date: 2020-02-14
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2003.01327'
