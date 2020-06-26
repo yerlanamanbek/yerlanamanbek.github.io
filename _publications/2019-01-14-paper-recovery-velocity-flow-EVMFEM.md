@@ -2,7 +2,7 @@
 title: "Recovery of the Interface Velocity for the Incompressible Flow in Enhanced Velocity Mixed Finite Element Method"
 collection: publications
 permalink: /publication/2019-01-14-paper-recovery-velocity-flow-EVMFEM
-excerpt: ''
+excerpt: "<img src='/images/publications/recovery_interface_velocity.png' style='float:left;width:150px;height:120px;'>"
 date: 2019-06-08
 venue: 'ICCS 19, A-rank conference.'
 paperurl: 'https://doi.org/10.1007/978-3-030-22747-0_38'
