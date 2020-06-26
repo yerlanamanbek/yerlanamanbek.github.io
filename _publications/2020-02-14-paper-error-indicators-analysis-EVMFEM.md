@@ -2,7 +2,7 @@
 title: "Error indicators for the incompressible Darcy flow problems using Enhanced Velocity Mixed Finite Element Method"
 collection: publications
 permalink: /publication/2020-02-14-paper-error-indicators-analysis-EVMFEM
-excerpt: ''
+excerpt: "<img src='/images/publications/error_indicator_evmfem.png' style='float:right;width:150px;height:120px;'>"
 date: 2020-02-14
 venue: 'Computer Methods in Applied Mechanics and Engineering'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0045782520300669'
