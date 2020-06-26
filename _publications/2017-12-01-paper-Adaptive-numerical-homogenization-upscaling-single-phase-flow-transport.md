@@ -2,7 +2,7 @@
 title: "Adaptive Numerical Homogenization for Upscaling Single Phase Flow and Transport"
 collection: publications
 permalink: /publication/2017-12-01-paper-Adaptive-numerical-homogenization-upscaling-single-phase-flow-transport
-excerpt: "<img src='/images/publications/adaptive_num_homogenization.png' style='float:left;width:300px;height:100px;'>"
+excerpt: "<img src='/images/publications/adaptive_num_homogenization.png' style='float:left;width:400px;height:100px;'>"
 date: 2019-03-5
 venue: 'Journal of Computational Physics'
 paperurl: 'https://doi.org/10.1016/j.jcp.2019.02.014'
