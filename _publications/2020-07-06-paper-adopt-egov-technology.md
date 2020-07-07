@@ -20,8 +20,8 @@ they perceive the portal to be useful, but only a limited percentage of citizens
 <figure>
   <p align="center">
   <div class="image_resize">
-  <img src="/images/publications/RevisedTAM.jpg'"  alt="">
-  <figcaption> The illustration of the velocity improvement at the interface using postprocessing. </figcaption>
+  <img src="/images/publications/RevisedTAM.jpg"  alt="">
+  <figcaption> The revised technology acceptance model. </figcaption>
   </div>
   </p>
 </figure>
