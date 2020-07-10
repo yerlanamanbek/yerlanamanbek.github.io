@@ -7,7 +7,7 @@ date: 2020-07-06
 venue: 'Journal of Open Innovation: Technology, Market, and Complexity'
 paperurl: 'https://doi.org/10.3390/joitmc6030046'
 citation: 'Amanbek, Y., Balgayev, I., Batyrkhanov, K., & Tan, M. (2020). 
-Adoption of e-government in the Republic of Kazakhstan. Journal of Open Innovation: Technology, Market, and Complexity.6(3). '
+Adoption of e-government in the Republic of Kazakhstan. Journal of Open Innovation: Technology, Market, and Complexity, 6(3). '
 ---
 
 "In the paper, we provide factors that influence Kazakhstan’s e-Government portal usage at the informational stage. 
