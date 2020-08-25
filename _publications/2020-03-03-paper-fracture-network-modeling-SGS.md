@@ -12,7 +12,7 @@ Framework of Fracture Network Modeling using Conditioned Data with Sequential Ga
 <figure>
   <p align="center">
   <div class="image_resize">
-  <img src="/images/publications/fracture_network_modeling_SGS/Fig_13_c_FracPaq_simul.png"  alt="">
+  <img src="/images/animations/Fracture_propagation_Ex2.gif"  alt="">
   <figcaption> Fracture Network Simulation in the center(green) using the data from available data(blue) for McDonald Limestone dataset, Scotland, UK. </figcaption>
   </div>
   </p>
