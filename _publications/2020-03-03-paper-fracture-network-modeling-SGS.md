@@ -13,7 +13,7 @@ Framework of Fracture Network Modeling using Conditioned Data with Sequential Ga
   <p align="center">
   <div class="image_resize">
   <img src="/images/animations/Fracture_propagation_Ex2.gif"  alt="">
-  <figcaption> Fracture Network Simulation in the center(green) using the data from available data(blue) for McDonald Limestone dataset, Scotland, UK. </figcaption>
+  <figcaption> Fracture Network Simulation in the center(green) using the data from available data(blue) for the Kazakhstan geology faults. </figcaption>
   </div>
   </p>
 </figure>
