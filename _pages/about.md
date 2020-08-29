@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Postdoctoral Scholar at the Department of Mathematics, Nazarbayev University, Kazakhstan.
+I am currently an Assistant Professor at the Department of Mathematics, Nazarbayev University, Kazakhstan.
 
-I have received a Ph.D. in Computational Science, Engineering and Mathematics (CSEM) at 
+I received a Ph.D. in Computational Science, Engineering and Mathematics (CSEM) at 
 the [Institute for Computational Engineering and Sciences (ICES)](https://www.ices.utexas.edu/){:target="_blank"}  in the University of Texas at Austin, 
 where I was at the [Center for Subsurface Modeling](http://csm.ices.utexas.edu/){:target="_blank"} and I was supervised by [Professor Mary Wheeler](http://users.ices.utexas.edu/~mfw/){:target="_blank"}.
 
