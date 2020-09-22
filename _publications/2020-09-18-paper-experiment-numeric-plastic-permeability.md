@@ -2,7 +2,7 @@
 title: "Experimental and Numerical Investigation of the Plastic Zone Permeability"
 collection: publications
 permalink: /publication/2020-09-18-paper-experiment-numeric-plastic-permeability
-excerpt: "<img src='/images/publications/' style='float:left;width:360px;height:120px;'>"
+excerpt: "<img src='/images/publications/Experiment_numeric_Plastic_permeability' style='float:left;width:474px;height:433px;'>"
 date: 2020-09-18
 venue: '54th US Rock Mechanics/Geomechanics Symposium'
 paperurl: 'https://www.onepetro.org/conference-paper/ARMA-2020-1626'
