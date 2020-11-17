@@ -5,7 +5,7 @@ permalink: /publication/2020-10-23-paper-traveliing-wave-glioblastama-growth-den
 excerpt: "<img src='/images/publications/tumor_growth_simulation.jpg' style='float:left;width:119px;height:109px;'>"
 date: 2020-10-23
 venue: 'Mathematical Biosciences and Engineering'
-paperurl: 'http://www.aimspress.com/article/10.3934/mbe.2020371'
+paperurl: 'http://doi.org/10.3934/mbe.2020371'
 citation: '	Ardak Kashkynbayev, Yerlan Amanbek, Bibinur Shupeyeva, Yang Kuang. Existence of traveling wave solutions 
 to data-driven glioblastoma multiforme growth models with density-dependent diffusion. Mathematical Biosciences and Engineering, 2020, 17(6): 7234-7247. doi: 10.3934/mbe.2020371'
 ---
