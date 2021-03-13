@@ -2,7 +2,7 @@
 title: "Reservoir Simulation of CO$_2$ Storage using Compositional Flow Model for geological formations in Frio Field and Precaspian Basin"
 collection: publications
 permalink: /publication/2021-03-08-paper-reservoir-simulation-co2-frio-precaspian
-excerpt: "<img src='/images/publications/RevisedTAM.jpg' style='float:left;width:360px;height:120px;'>"
+excerpt: "<img src='/images/publications/History_matching_BHP' style='float:left;width:360px;height:120px;'>"
 date: 2021-03-08
 venue: 'engrXiv'
 paperurl: 'https://doi.org/10.31224/osf.io/aksxn'
@@ -19,7 +19,7 @@ dissolved trapping mechanisms in the Precaspian basin."
 <figure>
   <p align="center">
   <div class="image_resize">
-  <img src="/images/publications/RevisedTAM.jpg"  alt="">
+  <img src="/images/publications/History_matching_BHP"  alt="">
   <figcaption> The revised technology acceptance model. </figcaption>
   </div>
   </p>
