@@ -1,5 +1,5 @@
 ---
-title: "Reservoir Simulation of CO$_2$ Storage using Compositional Flow Model for geological formations in Frio Field and Precaspian Basin"
+title: "Reservoir Simulation of CO2 Storage using Compositional Flow Model for geological formations in Frio Field and Precaspian Basin"
 collection: publications
 permalink: /publication/2021-03-08-paper-reservoir-simulation-co2-frio-precaspian
 excerpt: "<img src='/images/publications/History_matching_BHP.png' style='float:left;width:360px;height:120px;'>"
