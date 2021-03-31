@@ -14,7 +14,7 @@ citation: 'Merembayev T, Kurmangaliyev D, Bekbauov B, Amanbek Y. A Comparison of
   <p align="center">
   <div class="image_resize">
   <img src="/images/publications/ML_Lithofacies_NO_KZ.png"  alt="">
-  <figcaption> Graphical Abstractct </figcaption>
+  <figcaption> Graphical Abstract </figcaption>
   </div>
   </p>
 </figure>
