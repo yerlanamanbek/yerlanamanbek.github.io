@@ -9,6 +9,17 @@ paperurl: 'https://doi.org/10.3390/en14071896'
 citation: 'Merembayev T, Kurmangaliyev D, Bekbauov B, Amanbek Y. A Comparison of Machine Learning Algorithms in Predicting Lithofacies: Case Studies from Norway and Kazakhstan. Energies. 2021; 14(7):1896.'
 ---
 
+
+<figure>
+  <p align="center">
+  <div class="image_resize">
+  <img src="/images/publications/ML_Lithofacies_NO_KZ.png"  alt="">
+  <figcaption> Graphical Abstractct </figcaption>
+  </div>
+  </p>
+</figure>
+
+
 "Defining distinctive areas of the physical properties of rocks plays an important role in reservoir evaluation and hydrocarbon production as core data are challenging to obtain from all wells. 
 In this work, we study the evaluation of lithofacies values using the machine learning algorithms in the determination of classification from various well log data of Kazakhstan and Norway. 
 We also use the wavelet-transformed data in machine learning algorithms to identify geological properties from the well log data. Numerical results are presented for the multiple oil and 
@@ -18,11 +29,3 @@ In addition, the influence of the dataset features on the prediction is investig
 has the best score among considered algorithms. In addition, the results are consistent with outcome of the SHapley Additive exPlanations (SHAP) framework."
 
 
-<figure>
-  <p align="center">
-  <div class="image_resize">
-  <img src="/images/publications/ML_Lithofacies_NO_KZ.png"  alt="">
-  <figcaption> History match of injector’s BHP with width = 2250 m (black line) and width = 855 m (blue). </figcaption>
-  </div>
-  </p>
-</figure>
