@@ -2,7 +2,7 @@
 title: "A Comparison of Machine Learning Algorithms in Predicting Lithofacies: Case Studies from Norway and Kazakhstan"
 collection: publications
 permalink: /publication/2021-03-29-paper-comparision-ML-Lithofacies-no-kz
-excerpt: "<img src='/images/publications/ML_Lithofacies_NO_KZ.png' style='float:left;width:360px;height:120px;'>"
+excerpt: "<img src='/images/publications/ML_Lithofacies_NO_KZ.png' style='float:left;width:215px;height:120px;'>"
 date: 2021-03-29
 venue: 'Energies'
 paperurl: 'https://doi.org/10.3390/en14071896'
