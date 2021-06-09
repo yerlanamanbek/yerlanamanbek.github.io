@@ -2,11 +2,11 @@
 title: "Numerical simulations of cone penetration in cemented sandstone"
 collection: publications
 permalink: /publication/2021-06-07-paper-numerical-simulation-CPT
-excerpt: "<img src='/images/publications/CPT.png' style='float:left;width:200px;height:200px;'>"
+excerpt: "<img src='/images/publications/CPT.png' style='float:left;width:100px;height:100px;'>"
 date: 2021-06-07
-venue: 'Energies'
+venue: 'EPJ Web Conf.'
 paperurl: 'https://doi.org/10.1051/epjconf/202124914010'
-citation: 'Merembayev T, Kurmangaliyev D, Bekbauov B, Amanbek Y. A Comparison of Machine Learning Algorithms in Predicting Lithofacies: Case Studies from Norway and Kazakhstan. Energies. 2021; 14(7):1896.'
+citation: 'Rakhimzhanova, A., Thornton, C., Amanbek, Y., & Zhao, Y. (2021). Numerical simulations of cone penetration in cemented sandstone. EPJ Web of Conferences, 249, 14010.'
 ---
 
 
