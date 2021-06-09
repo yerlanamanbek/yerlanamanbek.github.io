@@ -2,7 +2,7 @@
 title: "Numerical simulations of cone penetration in cemented sandstone"
 collection: publications
 permalink: /publication/2021-06-07-paper-numerical-simulation-CPT
-excerpt: "<img src='/images/publications/CPT.png' style='float:left;width:215px;height:120px;'>"
+excerpt: "<img src='/images/publications/CPT.png' style='float:left;width:200px;height:200px;'>"
 date: 2021-06-07
 venue: 'Energies'
 paperurl: 'https://doi.org/10.1051/epjconf/202124914010'
