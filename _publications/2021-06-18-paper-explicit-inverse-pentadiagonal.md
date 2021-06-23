@@ -2,7 +2,7 @@
 title: "Explicit inverse of near Toeplitz pentadiagonal matrices related to higher order difference operators"
 collection: publications
 permalink: /publication/2021-06-18-paper-explicit-inverse-pentadiagonal
-excerpt: "<img src='/images/publications/Explicit_pentadiagonal_biharmonic_problem.png' style='float:left;width:100px;height:100px;'>"
+excerpt: "<img src='/images/publications/Explicit_pentadiagonal_biharmonic_problem.png' style='float:left;width:215px;height:120px;'>"
 date: 2021-06-07
 venue: 'Results in Applied Mathematics'
 paperurl: 'https://doi.org/10.1016/j.rinam.2021.100164'
