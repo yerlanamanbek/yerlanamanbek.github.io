@@ -13,7 +13,7 @@ citation: 'Merembayev, T., Bekkarnayev, K., & Amanbek, Y. (2021, June). The Iden
 <figure>
   <p align="center">
   <div class="">
-  <img src="/images/publications/Explicit_pentadiagonal_biharmonic_problem.png"  alt="">
+  <img src="/images/publications/cu_recovery_ml.png"  alt="">
   <figcaption></figcaption>
   </div>
   </p>
