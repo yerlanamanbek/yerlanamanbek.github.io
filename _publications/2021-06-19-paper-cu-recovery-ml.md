@@ -2,7 +2,7 @@
 title: "The Identification Models of the Copper Recovery Using Supervised Machine Learning Algorithms for the Geochemical Data"
 collection: publications
 permalink: /publication/2021-06-18-paper-cu-recovery-ml
-excerpt: "<img src='/images/publications/Explicit_pentadiagonal_biharmonic_problem.png' style='float:left;width:215px;height:120px;'>"
+excerpt: "<img src='/images/publications/cu_recovery_ml.png' style='float:left;width:120px;height:120px;'>"
 date: 2021-06-18
 venue: '55th US Rock Mechanics/Geomechanics Symposium'
 paperurl: 'https://onepetro.org/ARMAUSRMS/proceedings/ARMA21/All-ARMA21/ARMA-2021-1746/468112'
