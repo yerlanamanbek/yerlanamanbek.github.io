@@ -13,7 +13,7 @@ citation: 'Rakhimzhanova, A., Thornton, C., Amanbek, Y., & Zhao, Y. (2021). Nume
 <figure>
   <p align="center">
   <div class="">
-  <img src="/images/publications/CPT.png"  alt="">
+  <img src="/images/publications/sand_production.png"  alt="">
   <figcaption></figcaption>
   </div>
   </p>
