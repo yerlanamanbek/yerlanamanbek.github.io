@@ -2,7 +2,7 @@
 title: "Numerical simulations of sand production in oil wells using the CFD-DEM-IBM approach"
 collection: publications
 permalink: /publication/2021-09-25-paper-numerical-simulation-sand-production
-excerpt: "<img src='/images/publications/CPT.png' style='float:left;width:100px;height:100px;'>"
+excerpt: "<img src='/images/publications/sand_production.png' style='float:left;width:100px;height:100px;'>"
 date: 2021-09-25
 venue: 'Journal of Petroleum Science and Engineering'
 paperurl: 'https://doi.org/10.1016/j.petrol.2021.109529'
