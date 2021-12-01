@@ -6,7 +6,7 @@ excerpt: "<img src='/images/publications/History_matching_BHP.png' style='float:
 date: 2021-12-01
 venue: 'Energies'
 paperurl: 'https://doi.org/10.3390/en14238023'
-citation: 'Kamashev, A., & Amanbek, Y. (2021). Reservoir Simulation of CO2 Storage Using Compositional Flow Model for Geological Formations in Frio Field and Precaspian Basin. Energies, 14(23), 8023. doi:10.3390/en14238023'
+citation: 'Kamashev, A., & Amanbek, Y. (2021). Reservoir Simulation of CO2 Storage Using Compositional Flow Model for Geological Formations in Frio Field and Precaspian Basin. Energies, 14(23), 8023.'
 ---
 
 "CO2 storage is a greenhouse gas mitigation instrument for many countries. In this paper, we investigate the possibility of CO2 storage in the region of the Precaspian basin using the 
