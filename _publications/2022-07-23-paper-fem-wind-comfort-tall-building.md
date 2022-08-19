@@ -19,7 +19,7 @@ velocity profile can vary in the domain that creates different pedestrian comfor
   <p align="center">
   <div class="image_resize">
   <img src="/images/publications/wind_comfort_building.png"  alt="">
-  <figcaption> History match of injector’s BHP with width = 2250 m (black line) and width = 855 m (blue). </figcaption>
+  <figcaption> Generated Mesh Structures. </figcaption>
   </div>
   </p>
 </figure>
