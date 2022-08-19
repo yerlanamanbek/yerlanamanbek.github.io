@@ -2,7 +2,7 @@
 title: "Finite Element Model for Wind Comfort Around a Tall Building: A Case Study of Tower of Qazaqstan"
 collection: publications
 permalink: /publication/2022-07-23-paper-fem-wind-comfort-tall-building
-excerpt: "<img src='/images/publications/History_matching_BHP.png' style='float:left;width:360px;height:120px;'>"
+excerpt: "<img src='/images/publications/wind_comfort_building.png' style='float:left;width:360px;height:120px;'>"
 date: 2022-07-23
 venue: 'Energies'
 paperurl: 'https://doi.org/10.1007/978-3-031-10542-5_37'
@@ -18,7 +18,7 @@ velocity profile can vary in the domain that creates different pedestrian comfor
 <figure>
   <p align="center">
   <div class="image_resize">
-  <img src="/images/publications/History_matching_BHP.png"  alt="">
+  <img src="/images/publications/wind_comfort_building.png"  alt="">
   <figcaption> History match of injector’s BHP with width = 2250 m (black line) and width = 855 m (blue). </figcaption>
   </div>
   </p>
