@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-07-23-paper-fem-wind-comfort-tall-building
 excerpt: "<img src='/images/publications/wind_comfort_building.png' style='float:left;width:360px;height:120px;'>"
 date: 2022-07-23
-venue: 'ICCSA 2022, Springer'
+venue: 'ICCSA, Springer'
 paperurl: 'https://doi.org/10.1007/978-3-031-10542-5_37'
 citation: 'Narbayev, B., & Amanbek, Y. (2022). Finite Element Model for Wind Comfort Around a Tall Building: A Case Study of Tower of Qazaqstan. In International Conference on Computational Science and Its Applications (pp. 540-553). Springer, Cham.'
 ---
