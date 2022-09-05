@@ -2,10 +2,11 @@
  *  Academicons 1.8.0 by James Walsh - https://github.com/jpswalsh
  *  Fonts generated using the IcoMoon app - http://icomoon.io/app
  *  Square icons designed to be used alongside Font Awesome square icons - https://fortawesome.github.io/Font-Awesome/
- *  Licenses - Font: SIL OFL 1.1, CSS: MIT License
+ *  Licenses - Font: SIL OFL 1.1, CSS: MIT License 
+ <link rel="stylesheet" href="/path/to/folder/css/academicons.min.css"/>
  */
  
- <link rel="stylesheet" href="/path/to/folder/css/academicons.min.css"/>
+ 
 @font-face {
     font-family: 'Academicons';
     src:url('../fonts/academicons.eot?v=1.8.0');
