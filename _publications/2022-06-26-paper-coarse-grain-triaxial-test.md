@@ -6,7 +6,7 @@ excerpt: "<img src='/images/publications/coarse_grainingDEM_ARMA.png' style='flo
 date: 2022-06-26
 venue: '56th U.S. Rock Mechanics/Geomechanics Symposium'
 paperurl: 'https://doi.org/10.56952/ARMA-2022-2211'
-citation: '	Kazidenov, Daniyar, Khamitov, Furkhat, and Yerlan Amanbek. "Coarse-Graining Methods for the Modified JKR Contact Model on a Triaxial Compression Test." 
+citation: 'Kazidenov, Daniyar, Khamitov, Furkhat, and Yerlan Amanbek. "Coarse-Graining Methods for the Modified JKR Contact Model on a Triaxial Compression Test." 
 Paper presented at the 56th U.S. Rock Mechanics/Geomechanics Symposium, Santa Fe, New Mexico, USA, June 2022. doi: https://doi.org/10.56952/ARMA-2022-2211'
 ---
 
