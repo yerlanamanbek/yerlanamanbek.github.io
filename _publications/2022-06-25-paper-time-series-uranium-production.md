@@ -1,9 +1,9 @@
 ---
 title: "Time-Series Event Prediction for the Uranium Production Wells Using Machine Learning Algorithms"
 collection: publications
-permalink: /publication/2022-06-27-paper-time-series-uranium-production
+permalink: /publication/2022-06-25-paper-time-series-uranium-production
 excerpt: "<img src='/images/publications/time_series_uranium_prod.png' style='float:left;width:360px;height:120px;'>"
-date: 2022-06-27
+date: 2022-06-25
 venue: '56th U.S. Rock Mechanics/Geomechanics Symposium'
 paperurl: 'https://doi.org/10.56952/ARMA-2022-0415'
 citation: 'Merembayev, Timur, and Yerlan Amanbek. "Time-Series Event Prediction for the Uranium Production Wells Using Machine Learning Algorithms." 
