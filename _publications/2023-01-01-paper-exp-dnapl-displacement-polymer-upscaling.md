@@ -11,7 +11,7 @@ citation: 'Omirbekov, S., Colombano, S., Alamooti, A., Batikh, A., Cochennec, M.
 <figure>
   <p align="center">
   <div class="image_resize">
-  <img src="/images/animations/Fracture_propagation_Ex2.gif"  alt="">
+  <img src="/images/dnapl_upscaling.png"  alt="">
   <figcaption> Fracture Network Simulation in the center(green) using the data from available data(blue) for the Kazakhstan geology faults. </figcaption>
   </div>
   </p>
