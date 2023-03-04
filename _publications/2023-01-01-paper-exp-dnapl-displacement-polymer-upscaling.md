@@ -2,7 +2,7 @@
 title: "Experimental study of DNAPL displacement by a new densified polymer solution and upscaling problems of aqueous polymer flow in porous media"
 collection: publications
 permalink: /publication/2023-01-01-paper-exp-dnapl-displacement-polymer-upscaling
-excerpt: "<img src='/images/publications/fracture_network_modeling_SGS/Fig_13_c_FracPaq_simul.png' style='float:left;width:150px;height:120px;'>"
+excerpt: "<img src='/images/publications/dnapl_upscaling.png' style='float:left;width:170px;height:100px;'>"
 date: 2023-03-03
 venue: 'Journal of Contaminant Hydrology'
 paperurl: 'https://doi.org/10.1016/j.jconhyd.2022.104120'
