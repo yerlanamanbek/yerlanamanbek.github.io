@@ -12,7 +12,7 @@ citation: 'Omirbekov, S., Colombano, S., Alamooti, A., Batikh, A., Cochennec, M.
   <p align="center">
   <div class="image_resize">
   <img src="/images/publications/dnapl_upscaling.png"  alt="">
-  <figcaption> Fracture Network Simulation in the center(green) using the data from available data(blue) for the Kazakhstan geology faults. </figcaption>
+  <figcaption> Superficial velocity vs. macroscopic pressure gradient of XG polymer flow in 2D SPC, SPS, DPC, DPS and 3D SCP, BCP unit cells. </figcaption>
   </div>
   </p>
 </figure>
