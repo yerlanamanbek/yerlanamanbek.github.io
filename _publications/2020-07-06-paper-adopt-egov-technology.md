@@ -5,7 +5,7 @@ permalink: /publication/2020-07-06-paper-adopt-egov-technology
 excerpt: "<img src='/images/publications/RevisedTAM.jpg' style='float:left;width:360px;height:120px;'>"
 date: 2020-07-06
 venue: 'Journal of Open Innovation: Technology, Market, and Complexity'
-paperurl: 'https://doi.org/10.3390/joitmc6030046'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S219985312200539X'
 citation: 'Amanbek, Y., Balgayev, I., Batyrkhanov, K., & Tan, M. (2020). 
 Adoption of e-government in the Republic of Kazakhstan. Journal of Open Innovation: Technology, Market, and Complexity, 6(3), 46. '
 ---
