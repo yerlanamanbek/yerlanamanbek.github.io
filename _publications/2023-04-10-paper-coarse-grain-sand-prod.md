@@ -16,4 +16,14 @@ The modified cohesive contact model is utilized for the simulations with a sampl
  model is compared to the same statistic weight (SSW) and the same size parcel (SSP) coarse-gained models. The original and coarse-grained models show good agreement in the fluid streamlines, fluid and particle 
  velocities. In terms of sand production rate, the SSW model results are more accurate than the SSP model. Moreover, the particle size distribution of the produced particles of the SSW model is consistent with 
  the results of the original particle model. The SSP model performs better in terms of speedup by accelerating the original model up to 9.4 times in parallel computing."
+ 
+ 
+ <figure>
+  <p align="center">
+  <div class="image_resize">
+  <img src="/images/publications/coarse_grainingSand_GSE.png"  alt="">
+  <figcaption> Fluid streamlines, fluid velocity magnitude and particle velocity at t=0.003s.</figcaption>
+  </div>
+  </p>
+</figure>
 
