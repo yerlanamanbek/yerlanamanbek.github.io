@@ -2,7 +2,7 @@
 title: "Coarse-graining of CFD-DEM for simulation of sand production in the modified cohesive contact model"
 collection: publications
 permalink: /publication/2023-04-10-paper-coarse-grain-sand-prod
-excerpt: "<img src='/images/publications/coarse_grainingSand_GSE.png' style='float:left;width:119px;height:109px;'>"
+excerpt: "<img src='/images/publications/coarse_grainingSand_GSE.png' style='float:left;width:729px;height:241px;'>"
 date: 2023-04-10
 venue: 'Gas Science and Engineering'
 paperurl: 'https://doi.org/10.1016/j.jgsce.2023.204976'
