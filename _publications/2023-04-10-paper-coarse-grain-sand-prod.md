@@ -21,7 +21,7 @@ The modified cohesive contact model is utilized for the simulations with a sampl
  <figure>
   <p align="center">
   <div class="image_resize">
-  <img src="/images/publications/coarse_grainingSand_GSE.png"  alt="">
+  <img src="/images/publications/Coarse_CFDDEM_Sand.gif"  alt="">
   <figcaption> Fluid streamlines, fluid velocity magnitude and particle velocity at t=0.003s.</figcaption>
   </div>
   </p>
