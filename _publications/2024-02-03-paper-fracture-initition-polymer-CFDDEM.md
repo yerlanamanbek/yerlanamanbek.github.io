@@ -21,7 +21,7 @@ shear-thinning fluids. Our numerical results show that fracture initiation occur
  <figure>
   <p align="center">
   <div class="image_resize">
-  <img src="/images/animations/Coarse_CFDDEM_Sand.gif"  alt="">
+  <img src="/images/animations/XG_fracture_simulation_small.gif"  alt="">
   <figcaption> Fluid streamlines, fluid velocity magnitude and particle velocity at t=0.003s.</figcaption>
   </div>
   </p>
