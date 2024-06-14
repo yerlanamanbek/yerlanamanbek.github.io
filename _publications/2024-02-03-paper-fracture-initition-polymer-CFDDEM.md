@@ -2,7 +2,7 @@
 title: "CFD-DEM modeling of fracture initiation with polymer injection in granular media"
 collection: publications
 permalink: /publication/2024-02-03-paper-fracture-initition-polymer-CFDDEM
-excerpt: "<img src='/images/publications/coarse_grainingSand_GSE.png' style='float:left;width:360px;height:120px;'>"
+excerpt: "<img src='/images/publications/Fracture_XG.png' style='float:left;width:360px;height:120px;'>"
 date: 2024-02-03
 venue: 'Preprint'
 paperurl: 'https://doi.org/10.48550/arXiv.2402.02106'
