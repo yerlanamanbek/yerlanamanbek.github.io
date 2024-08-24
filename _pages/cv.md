@@ -23,7 +23,7 @@ a posteriori and a priorri error analysis, robust and efficient solution algorit
 
 Recent Awards
 ======
-* [Best Researcher 2023 award ](https://ssh.nu.edu.kz/tpost/6lc62pydc1-ssh-professors-win-best-researcher-of-th){:target="_blank"}{:target="_blank"}, Ministry of Science and Higher Education, Kazakhstan, 2024
+* [Best Researcher 2023 award](https://ssh.nu.edu.kz/tpost/6lc62pydc1-ssh-professors-win-best-researcher-of-th){:target="_blank"}{:target="_blank"}, Ministry of Science and Higher Education, Kazakhstan, 2024
 * Graduate School Summer Fellowship, the University of Texas at Austin, 2018
 * Texas Applied Math & Eng Symposium (TAMES) [Best Poster Award](https://oden.utexas.edu/news-and-events/news/csems-amanbek-receives-top-poster-award-at-tames/){:target="_blank"}{:target="_blank"}, USA, 2017
 * Research Experience Carbon Sequestration Program Award, USA, 2017
