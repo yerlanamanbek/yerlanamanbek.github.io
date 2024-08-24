@@ -23,6 +23,7 @@ a posteriori and a priorri error analysis, robust and efficient solution algorit
 
 Recent Awards
 ======
+* Best Researcher 2023 award, Ministry of Science and Higher Education, Kazakhstan, 2024
 * Graduate School Summer Fellowship, the University of Texas at Austin, 2018
 * Texas Applied Math & Eng Symposium (TAMES) [Best Poster Award](https://www.ices.utexas.edu/about/news/494/){:target="_blank"}{:target="_blank"}, USA, 2017
 * Research Experience Carbon Sequestration Program Award, USA, 2017
