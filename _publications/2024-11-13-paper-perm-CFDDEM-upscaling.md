@@ -2,7 +2,7 @@
 title: "Permeability estimation from pore to Darcy in cemented granular media using resolved CFD-DEM model"
 collection: publications
 permalink: /publication/2024-11-13-paper-perm-CFDDEM-upscaling
-excerpt: "<img src='/images/publications/Fracture_XG.png' style='float:left;width:293px;height:120px;'>"
+excerpt: "<img src='/images/publications/perm_cfd_dem.png' style='float:left;width:293px;height:120px;'>"
 date: 2024-11-13
 venue: 'Results in Engineering'
 paperurl: 'https://doi.org/10.1016/j.rineng.2024.103359'
@@ -31,7 +31,7 @@ be considered. In this work, we investigate the effect of particle cementation o
  <figure>
   <p align="center">
   <div class="image_resize">
-  <img src="/images/animations/XG_fracture_simulation_small.gif"  alt="">
+  <img src="/images/animations/perm_cfd_dem.png"  alt="">
   <figcaption> Fracture initiation by injecting XG polymer.</figcaption>
   </div>
   </p>
