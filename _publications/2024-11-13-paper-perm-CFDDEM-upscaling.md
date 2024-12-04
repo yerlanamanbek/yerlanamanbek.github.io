@@ -2,7 +2,7 @@
 title: "Permeability estimation from pore to Darcy in cemented granular media using resolved CFD-DEM model"
 collection: publications
 permalink: /publication/2024-11-13-paper-perm-CFDDEM-upscaling
-excerpt: "<img src='/images/publications/perm_cfd_dem.png' style='float:left;width:293px;height:120px;'>"
+excerpt: "<img src='/images/publications/perm_cfd_dem.png' style='float:left;width:120px;height:73px;'>"
 date: 2024-11-13
 venue: 'Results in Engineering'
 paperurl: 'https://doi.org/10.1016/j.rineng.2024.103359'
