@@ -32,7 +32,7 @@ be considered. In this work, we investigate the effect of particle cementation o
   <p align="center">
   <div class="image_resize">
   <img src="/images/animations/Video_permeability_medium.gif"  alt="">
-  <figcaption> Fracture initiation by injecting XG polymer.</figcaption>
+  <figcaption> Simulation of the fluid flow through sample, where polydisperse particles, compaction level is 10% and surface energy density between particles is 0 J/m2.</figcaption>
   </div>
   </p>
 </figure>
