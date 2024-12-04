@@ -31,7 +31,7 @@ be considered. In this work, we investigate the effect of particle cementation o
  <figure>
   <p align="center">
   <div class="image_resize">
-  <img src="/images/animations/perm_cfd_dem.png"  alt="">
+  <img src="/images/animations/Video_permeability_medium.gif"  alt="">
   <figcaption> Fracture initiation by injecting XG polymer.</figcaption>
   </div>
   </p>
