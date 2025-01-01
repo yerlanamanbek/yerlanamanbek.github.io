@@ -26,7 +26,8 @@ joints at both macro- and micro-scales.
   <p align="center">
   <div class="image_resize">
   <img src="/images/publications/material_fem_dem.jpg"  alt="">
-  <figcaption> Simulation of the fluid flow through sample, where polydisperse particles, compaction level is 10% and surface energy density between particles is 0 J/m2.</figcaption>
+  <figcaption> DEM results of the SLJ failure mode: (a) Numerical data from Wang et al. [39]; (b) Simulation results at 6.05 mm (side view); 
+  (c) Simulation results at 6.05 mm (3D view).</figcaption>
   </div>
   </p>
 </figure>
