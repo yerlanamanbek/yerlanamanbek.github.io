@@ -2,7 +2,7 @@
 title: "Failure mechanism investigation of the adhesively bonded joints using Finite Element and Discrete Element methods"
 collection: publications
 permalink: /publication/2025-01-01-paper-failure-mechanism-material-FEMDEM
-excerpt: "<img src='/images/publications/material_fem_dem_front.jpg' style='float:left;width:120px;height:73px;'>"
+excerpt: "<img src='/images/publications/material_fem_dem_front.jpg' style='float:left;width:131px;height:70px;'>"
 date: 2025-01-01
 venue: 'Composite Structures'
 paperurl: 'https://doi.org/10.1016/j.compstruct.2024.118574'
@@ -25,7 +25,7 @@ joints at both macro- and micro-scales.
  <figure>
   <p align="center">
   <div class="image_resize">
-  <img src="/images/animations/Video_permeability_medium.gif"  alt="">
+  <img src="/images/publications/material_fem_dem.jpg"  alt="">
   <figcaption> Simulation of the fluid flow through sample, where polydisperse particles, compaction level is 10% and surface energy density between particles is 0 J/m2.</figcaption>
   </div>
   </p>
