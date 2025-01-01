@@ -2,7 +2,7 @@
 title: "Failure mechanism investigation of the adhesively bonded joints using Finite Element and Discrete Element methods"
 collection: publications
 permalink: /publication/2025-01-01-paper-failure-mechanism-material-FEMDEM
-excerpt: "<img src='/images/publications/perm_cfd_dem.png' style='float:left;width:120px;height:73px;'>"
+excerpt: "<img src='/images/publications/material_fem_dem_front.jpg' style='float:left;width:120px;height:73px;'>"
 date: 2025-01-01
 venue: 'Composite Structures'
 paperurl: 'https://doi.org/10.1016/j.compstruct.2024.118574'
