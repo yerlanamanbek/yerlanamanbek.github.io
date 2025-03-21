@@ -2,7 +2,7 @@
 title: "Experimental and numerical study of the effect of polymer flooding on sand production in poorly consolidated porous media"
 collection: publications
 permalink: /publication/2025-02-20-paper-exp-num-polymer-sand-CFDDEM
-excerpt: "<img src='/images/publications/Fracture_XG.png' style='float:left;width:293px;height:120px;'>"
+excerpt: "<img src='/images/publications/bond_sand_production_polymer.jpg' style='float:left;width:293px;height:120px;'>"
 date: 2025-02-20
 venue: 'Geoenergy Science and Engineering'
 paperurl: 'https://doi.org/10.1016/j.geoen.2025.213746'
