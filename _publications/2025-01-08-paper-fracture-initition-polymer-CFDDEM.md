@@ -1,12 +1,12 @@
 ---
 title: "CFD-DEM modeling of fracture initiation with polymer injection in granular media"
 collection: publications
-permalink: /publication/2024-02-03-paper-fracture-initition-polymer-CFDDEM
+permalink: /publication/2025-01-08-paper-fracture-initition-polymer-CFDDEM
 excerpt: "<img src='/images/publications/Fracture_XG.png' style='float:left;width:293px;height:120px;'>"
-date: 2024-02-03
-venue: 'Preprint'
-paperurl: 'https://doi.org/10.48550/arXiv.2402.02106'
-citation: 'Kazidenov, D., & Amanbek, Y. (2024). CFD-DEM modeling of fracture initiation with polymer injection in granular media. arXiv preprint arXiv:2402.02106.'
+date: 2025-01-08
+venue: 'Particuology'
+paperurl: 'https://doi.org/10.1016/j.partic.2024.12.001'
+citation: 'Kazidenov, D., & Amanbek, Y. (2025). CFD-DEM modeling of fracture initiation with polymer injection in granular media. Particuology, 97, 58-68.'
 ---
 
 "We numerically study mechanisms and conditions of fracture initiation in weakly cohesive granular media induced by non-Newtonian polymer solutions. A coupling approach of computational fluid dynamics and discrete element 
