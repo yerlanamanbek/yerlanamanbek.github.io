@@ -32,7 +32,7 @@ power-law model. The drag force acting on a particle by the fluid is calculated 
  <figure>
   <p align="center">
   <div class="image_resize">
-  <img src="/images/animations/XG_fracture_simulation_small.gif"  alt="">
+  <img src="/images/animations/Sand_production_polymer.gif"  alt="">
   <figcaption> Fracture initiation by injecting XG polymer.</figcaption>
   </div>
   </p>
