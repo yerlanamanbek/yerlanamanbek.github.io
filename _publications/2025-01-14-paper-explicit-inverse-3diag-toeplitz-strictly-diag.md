@@ -13,10 +13,12 @@ citation: 'Kurmanbek, B., Erlangga, Y., & Amanbek, Y. (2025). Explicit inverse o
 (1,1) and (n,n) entry of T_n. Let  \wtt_{1,1} = \wtt_{n,n} = \wtb \neq b. We derive exact inverses of \wtT_n. Furthermore, we demonstrate that these results hold even when |\widetilde{b}| < 1. Additionally, we establish upper 
 bounds for the infinite norms of the inverse matrices.
   
-  The row sums and traces of the inverse provide insight into the matrix's spectral properties and play a key role in understanding the convergence of fixed-point iterations. These metrics allow us to derive tighter bounds on the infinite norms and improve computational efficiency.
+  The row sums and traces of the inverse provide insight into the matrix's spectral properties and play a key role in understanding the convergence of fixed-point iterations. These metrics allow us to derive tighter 
+  bounds on the infinite norms and improve computational efficiency.
 
 
-Numerical results for Fisher's problem demonstrate that the derived bounds closely match the actual infinite norms, particularly for $b > 2$ with $\widetilde{b} \leq 1$ and $b < -2$ with $\widetilde{b} \geq -1$. For other cases, further refinement of the bounds is possible.
+Numerical results for Fisher's problem demonstrate that the derived bounds closely match the actual infinite norms, particularly for b > 2 with \widetilde{b} \leq 1 and b < -2 with \widetilde{b} \geq -1. For other cases, 
+further refinement of the bounds is possible.
     
 
 Our results contribute to improving the convergence rates of fixed-point iterations and reducing the computation time for matrix inversion."
