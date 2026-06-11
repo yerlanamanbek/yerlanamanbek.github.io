@@ -2,7 +2,7 @@
 title: "Pricing Convertible Bonds with the Penalty TF Model Using Finite Element Method"
 collection: publications
 permalink: /publication/2025-04-01-paper-Pricing-Conv-Bond-Penalty-TF-FEM
-excerpt: "<img src='/images/publications/Appl_PINN_2phase_var_dif.png' style='float:left;width:210px;height:120px;object-fit:contain;margin-right:5px;margin-bottom:5px;'>"
+excerpt: "<img src='/images/publications/Penalty_TF_Model_FEM.png' style='float:left;width:210px;height:120px;object-fit:contain;margin-right:5px;margin-bottom:5px;'>"
 date: 2025-04-30
 venue: 'Computational Economics'
 paperurl: 'https://doi.org/10.1007/s10614-024-10625-1'
@@ -12,7 +12,7 @@ citation: 'Kazbek, R., Erlangga, Y., Amanbek, Y., & Wei, D. (2024). Pricing conv
 <figure>
   <p align="center">
   <div class="image_resize">
-  <img src='/images/publications/Appl_PINN_2phase_var_dif.png'>
+  <img src='/images/publications/Penalty_TF_Model_FEM.png'>
   </div>
   </p>
 </figure>
@@ -27,12 +27,4 @@ convertible bonds. The model consists of two coupled Black-Scholes equations, wh
  the bond pricing, we compute some Greeks using the computed solution and the corresponding FEM approximation functions."
  
  
- <figure>
-  <p align="center">
-  <div class="image_resize">
-  <img src="/images/publications/polynomial_epsilon_upd.png"  alt="">
-  <figcaption> PINN solution with variable diffusion </figcaption>
-  </div>
-  </p>
-</figure>
 
