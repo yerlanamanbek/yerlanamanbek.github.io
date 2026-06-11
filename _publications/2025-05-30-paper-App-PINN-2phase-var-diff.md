@@ -2,7 +2,7 @@
 title: "Application of physics-informed neural networks for two-phase flow model with variable diffusion and experimental validation"
 collection: publications
 permalink: /publication/2025-05-30-paper-App-PINN-2phase-var-diff
-excerpt: "<img src='/images/publications/bond_sand_production_polymer.jpg' style='float:left;width:293px;height:120px;'>"
+excerpt: "<img src='/images/publications/Appl_PINN_2phase_var_dif.png' style='float:left;width:293px;height:120px;'>"
 date: 2025-05-30
 venue: 'Results in Engineering'
 paperurl: 'https://doi.org/10.1016/j.rineng.2025.105439'
