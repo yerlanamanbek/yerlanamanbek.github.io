@@ -25,7 +25,7 @@ compared to using a constant diffusion coefficient."
  <figure>
   <p align="center">
   <div class="image_resize">
-  <img src="/images/animations/Sand_production_polymer.gif"  alt="">
+  <img src="/images/animations/polynomial_epsilon_upd.png"  alt="">
   <figcaption> Fracture initiation by injecting XG polymer.</figcaption>
   </div>
   </p>
