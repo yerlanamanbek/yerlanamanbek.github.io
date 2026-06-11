@@ -26,7 +26,7 @@ compared to using a constant diffusion coefficient."
   <p align="center">
   <div class="image_resize">
   <img src="/images/animations/polynomial_epsilon_upd.png"  alt="">
-  <figcaption> Fracture initiation by injecting XG polymer.</figcaption>
+  <figcaption> PINN solution with $\epsilon = 0.04x^2 + 0.05x + 0.0015$</figcaption>
   </div>
   </p>
 </figure>
