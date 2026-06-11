@@ -17,17 +17,14 @@ citation: 'Kazbek, R., Erlangga, Y., Amanbek, Y., & Wei, D. (2024). Pricing conv
   </p>
 </figure>
 
-"Recent advancements in deep learning have significantly improved solving complex computational physics
-problems. This paper presents Physics-Informed Neural Networks (PINNs) with a spatially-dependent diffusion
-function to model two-phase flow in porous media, explicitly addressing the Buckley-Leverett problem. The
-study analyzes the PINNs using different approaches, including diffusion term and modification flux function to
-convex hull, employing both Multi-Layer Perceptron (MLP) and Attention-based neural network architectures.
-In addition, we investigate the application of the PINNs for laboratory experimental data by assessing the
-performance of PINNs in capturing the saturation front dynamics. Our results indicate that while the attentionbased model achieves slightly higher accuracy, it is significantly time-consuming. In contrast, the MLP is the more
-efficient in terms of training time with a speedup in the range of 7 − 13. A sensitivity analysis on the constant
-diffusion coefficient shows that PINNs can approximately capture the pattern of the saturation front. We have
-found that adapting the spatial-dependent diffusion function provided better accuracy with the experimental data
-compared to using a constant diffusion coefficient."
+"In this paper, we discuss finite element methods (FEM) for solving numerically the so-called TF model, a PDE-based model for pricing 
+convertible bonds. The model consists of two coupled Black-Scholes equations, whose solutions are constrained. The construction of the FEM
+ is based on the P1 and P2 element, applied to the penalty-based reformulation of the TF model. The resultant nonlinear differential 
+ algebraic equations are solved using a modified Crank-Nicolson scheme, with non-linear part with non-smooth terms solved at each 
+ time step by Newton’s method. While P1-FEM demonstrates a comparable convergence rate to the standard finite difference method, a better
+ convergence rate is achieved with P2-FEM. The fast convergence of P2-FEM leads to a significant reduction in CPU time, due to the reduction 
+ in the number of elements used to achieve the same accuracy as P1-FEM or FDM. As the Greeks are important numerical parameters in
+ the bond pricing, we compute some Greeks using the computed solution and the corresponding FEM approximation functions."
  
  
  <figure>
