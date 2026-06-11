@@ -6,7 +6,7 @@ excerpt: "<img src='/images/publications/bond_sand_production_polymer.jpg' style
 date: 2025-05-30
 venue: 'Results in Engineering'
 paperurl: 'https://doi.org/10.1016/j.rineng.2025.105439'
-citation: 'Kazidenov, D., Omirbekov, S., Zhanabayeva, M., & Amanbek, Y. (2025). Experimental and numerical study of the effect of polymer flooding on sand production in poorly consolidated porous media. Geoenergy Science and Engineering, 213746.'
+citation: 'Kalesh, D., Merembayev, T., Omirbekov, S., & Amanbek, Y. (2025). Application of physics-informed neural networks for two-phase flow model with variable diffusion and experimental validation. Results in Engineering, 26, 105439.'
 ---
 
 "Recent advancements in deep learning have significantly improved solving complex computational physics
