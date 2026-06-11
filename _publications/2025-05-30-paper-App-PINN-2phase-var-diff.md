@@ -9,6 +9,14 @@ paperurl: 'https://doi.org/10.1016/j.rineng.2025.105439'
 citation: 'Kalesh, D., Merembayev, T., Omirbekov, S., & Amanbek, Y. (2025). Application of physics-informed neural networks for two-phase flow model with variable diffusion and experimental validation. Results in Engineering, 26, 105439.'
 ---
 
+<figure>
+  <p align="center">
+  <div class="image_resize">
+  <img src='/images/publications/Appl_PINN_2phase_var_dif.png'>
+  </div>
+  </p>
+</figure>
+
 "Recent advancements in deep learning have significantly improved solving complex computational physics
 problems. This paper presents Physics-Informed Neural Networks (PINNs) with a spatially-dependent diffusion
 function to model two-phase flow in porous media, explicitly addressing the Buckley-Leverett problem. The
@@ -31,10 +39,3 @@ compared to using a constant diffusion coefficient."
   </p>
 </figure>
 
- <figure>
-  <p align="center">
-  <div class="image_resize">
-  <img src='/images/publications/Appl_PINN_2phase_var_dif.png'>
-  </div>
-  </p>
-</figure>
