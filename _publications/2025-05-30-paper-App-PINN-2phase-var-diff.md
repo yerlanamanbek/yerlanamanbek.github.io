@@ -31,3 +31,10 @@ compared to using a constant diffusion coefficient."
   </p>
 </figure>
 
+ <figure>
+  <p align="center">
+  <div class="image_resize">
+  <img src='/images/publications/Appl_PINN_2phase_var_dif.png'>
+  </div>
+  </p>
+</figure>
