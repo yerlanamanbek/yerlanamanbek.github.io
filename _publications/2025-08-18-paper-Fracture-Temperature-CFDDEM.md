@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2025-08-18-paper-Fracture-Temperature-CFDDEM
 excerpt: "<img src='/images/publications/Fracture_CFDDEM_Temperature.png' style='float:left;width:210px;height:120px;object-fit:contain;margin-right:5px;margin-bottom:5px;'>"
 date: 2025-07-05
-venue: 'Applied Computing and Geosciences'
+venue: 'Particuology'
 paperurl: 'https://doi.org/10.1016/j.partic.2025.08.002'
 citation: 'Kazidenov, D., Omirbekov, S., & Amanbek, Y. (2025). CFD-DEM modeling of fluid-driven fracture induced by temperature-dependent polymer injection. Particuology, 105, 259–276.'
 ---
