@@ -2,7 +2,7 @@
 title: "Natural fracture network model using Gaussian simulation and machine learning algorithms"
 collection: publications
 permalink: /publication/2025-07-05-paper-Fracture-Net-Gaus-ML
-excerpt: "<img src='/images/publications/Appl_PINN_2phase_var_dif.png' style='float:left;width:210px;height:120px;object-fit:contain;margin-right:5px;margin-bottom:5px;'>"
+excerpt: "<img src='/images/publications/Fracture_Network_model_Gaussian_ML.png' style='float:left;width:210px;height:120px;object-fit:contain;margin-right:5px;margin-bottom:5px;'>"
 date: 2025-07-05
 venue: 'Applied Computing and Geosciences'
 paperurl: 'https://doi.org/10.1016/j.acags.2025.100258'
@@ -12,7 +12,7 @@ citation: 'Merembayev, T., & Amanbek, Y. (2025). Natural fracture network model 
 <figure>
   <p align="center">
   <div class="image_resize">
-  <img src='/images/publications/Appl_PINN_2phase_var_dif.png'>
+  <img src='/images/publications/Fracture_Network_model_Gaussian_ML.png'>
   </div>
   </p>
 </figure>
