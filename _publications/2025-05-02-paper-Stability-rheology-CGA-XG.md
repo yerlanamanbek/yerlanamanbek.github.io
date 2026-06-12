@@ -2,7 +2,7 @@
 title: "Stability and rheological characterization of colloidal gas aphrons: influence of xanthan gum and sodium dodecyl sulfate"
 collection: publications
 permalink: /publication/2025-05-02-paper-Stability-rheology-CGA-XG
-excerpt: "<img src='/images/publications/Fracture_CFDDEM_Temperature.png' style='float:left;width:210px;height:120px;object-fit:contain;margin-right:5px;margin-bottom:5px;'>"
+excerpt: "<img src='/images/publications/Stability_rheology_CGA.png' style='float:left;width:210px;height:120px;object-fit:contain;margin-right:5px;margin-bottom:5px;'>"
 date: 2025-07-05
 venue: 'Discover Applied Sciences'
 paperurl: 'https://doi.org/10.1007/s42452-025-06884-8'
@@ -12,7 +12,7 @@ citation: 'Zhumabek, M., Kachkinova, A., Cochennec, M., Colombano, S., Amanbek, 
 <figure>
   <p align="center">
   <div class="image_resize">
-  <img src='/images/publications/Fracture_CFDDEM_Temperature.png'>
+  <img src='/images/publications/Stability_rheology_CGA.png'>
   </div>
   </p>
 </figure>
