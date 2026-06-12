@@ -2,7 +2,7 @@
 title: "Stability of colloidal gas aphrons based on polymer-surfactant formulations and molecular dynamics insights"
 collection: publications
 permalink: /publication/2025-07-02-paper-Stability-CGA-polymer-MD
-excerpt: "<img src='/images/publications/Stability_rheology_CGA.png' style='float:left;width:210px;height:120px;object-fit:contain;margin-right:5px;margin-bottom:5px;'>"
+excerpt: "<img src='/images/publications/Stability_CGA_polymer_MD.png' style='float:left;width:210px;height:120px;object-fit:contain;margin-right:5px;margin-bottom:5px;'>"
 date: 2025-07-05
 venue: 'Scientific Reports'
 paperurl: 'https://doi.org/10.1038/s41598-025-08100-4'
@@ -12,7 +12,7 @@ citation: 'Amankeldiyeva, A., Kaumbekova, S., Khalidulliyeva, A., Salimova, Z., 
 <figure>
   <p align="center">
   <div class="image_resize">
-  <img src='/images/publications/Stability_rheology_CGA.png'>
+  <img src='/images/publications/Stability_CGA_polymer_MD.png'>
   </div>
   </p>
 </figure>
