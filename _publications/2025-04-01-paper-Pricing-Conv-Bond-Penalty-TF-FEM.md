@@ -6,7 +6,7 @@ excerpt: "<img src='/images/publications/Penalty_TF_Model_FEM.png' style='float:
 date: 2025-04-30
 venue: 'Computational Economics'
 paperurl: 'https://doi.org/10.1007/s10614-024-10625-1'
-citation: 'Kazbek, R., Erlangga, Y., Amanbek, Y., & Wei, D. (2024). Pricing convertible bonds with the penalty TF model using finite element method. Computational Economics, 1-28.'
+citation: 'Kazbek, R., Erlangga, Y., Amanbek, Y., & Wei, D. (2025). Pricing convertible bonds with the penalty TF model using finite element method. Computational Economics, 1-28.'
 ---
 
 <figure>
