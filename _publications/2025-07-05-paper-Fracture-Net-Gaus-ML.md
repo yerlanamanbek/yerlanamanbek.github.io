@@ -25,14 +25,4 @@ validated by comparing the simulated fracture networks with the original fractur
  for azimuth prediction, while the machine learning algorithm performs better for length prediction. In addition, 
  the validation of the fracture network model is conducted by comparing the production curve profiles in the tracer test 
  setting. They are in good agreement."
- 
- 
- <figure>
-  <p align="center">
-  <div class="image_resize">
-  <img src="/images/publications/polynomial_epsilon_upd.png"  alt="">
-  <figcaption> PINN solution with variable diffusion </figcaption>
-  </div>
-  </p>
-</figure>
 
