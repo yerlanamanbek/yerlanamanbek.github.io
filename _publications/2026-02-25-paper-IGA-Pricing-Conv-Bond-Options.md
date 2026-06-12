@@ -2,7 +2,7 @@
 title: "Isogeometric Analysis for the Pricing of Financial Derivatives with Nonlinear Models: Convertible Bonds and Options"
 collection: publications
 permalink: /publication/2026-02-25-paper-IGA-Pricing-Conv-Bond-Options
-excerpt: "<img src='/images/publications/Penalty_TF_Model_FEM.png' style='float:left;width:210px;height:120px;object-fit:contain;margin-right:5px;margin-bottom:5px;'>"
+excerpt: "<img src='/images/publications/IGA_FEM_option.png' style='float:left;width:210px;height:120px;object-fit:contain;margin-right:5px;margin-bottom:5px;'>"
 date: 2026-02-25
 venue: 'Computational Economics'
 paperurl: 'https://doi.org/10.1007/s10614-025-11235-1'
@@ -12,7 +12,7 @@ citation: 'Kazbek, R., Erlangga, Y., Amanbek, Y., & Wei, D. (2026). Isogeometric
 <figure>
   <p align="center">
   <div class="image_resize">
-  <img src='/images/publications/Penalty_TF_Model_FEM.png'>
+  <img src='/images/publications/abtract_IGA_FEM_option.png'>
   </div>
   </p>
 </figure>
