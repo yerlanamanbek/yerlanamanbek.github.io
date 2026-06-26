@@ -7,6 +7,21 @@ redirect_from:
   - /resume
 ---
 
+
+## Prospective Students
+
+I welcome motivated students interested in:
+
+- Numerical methods for PDEs
+- Finite element methods and isogeometric analysis
+- CFD–DEM and multiphase flow
+- Physics-informed neural networks
+- Porous-media flow, fracture, and transport
+- Scientific computing using MATLAB, Python, and C++
+
+Students interested in research opportunities may contact me by email with a CV, transcript, and a short description of their research interests.
+
+
 ## Current Students
 
 ### PhD Students
@@ -63,16 +78,3 @@ redirect_from:
   After graduation, he pursued an MSc degree at **University of British Columbia**, **Canada**.
 
 ---
-
-## Prospective Students
-
-I welcome motivated students interested in:
-
-- Numerical methods for PDEs
-- Finite element methods and isogeometric analysis
-- CFD–DEM and multiphase flow
-- Physics-informed neural networks
-- Porous-media flow, fracture, and transport
-- Scientific computing using MATLAB, Python, and C++
-
-Students interested in research opportunities may contact me by email with a CV, transcript, and a short description of their research interests.
