@@ -13,9 +13,9 @@ redirect_from:
 I welcome motivated students interested in:
 
 - Numerical methods for PDEs
-- Finite element methods and isogeometric analysis
+- Finite element methods 
 - CFD–DEM and multiphase flow
-- Physics-informed neural networks
+- Physics-informed neural networks (PINN)
 - Porous-media flow, fracture, and transport
 - Scientific computing using MATLAB, Python, and C++
 
