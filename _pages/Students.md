@@ -43,14 +43,14 @@ redirect_from:
   Currently: PhD student at Khalifa Univesity, UAE.
  
  
- - **Arman Abylkassimov** (Research Assistant, April 2022 – December 2025)
+- **Arman Abylkassimov** (Research Assistant, April 2022 – December 2025)
   
   Research topic: CFD–DEM models in Subsurface Applications
   
   Currently: PhD student at National univesity of Singapore, Singapore.
   
    
- - **Bakytzhan Kurmanbek** (Research Assistant, April 2022 – December 2025)
+- **Bakytzhan Kurmanbek** (Research Assistant, April 2022 – December 2025)
   
   Research topic: CFD–DEM models in Subsurface Applications
   
@@ -58,7 +58,7 @@ redirect_from:
   
   Currently: About to start PhD in Berlin, Germany.
  
- - **Bakdauren Narbayev** — MSc, year  
+- **Bakdauren Narbayev** — BSc, year  
   
   After graduation, he pursued an MSc degree at UBC, Canada.
 
