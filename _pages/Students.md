@@ -24,16 +24,21 @@ redirect_from:
 ## Former Students/Research Assistants
 
 - **Rakhymzhan Kazbek** (PhD Student, Nazarbayev Univesity, August 2020 – May 2024)
+
   **Role** Co-Supervisor
+  
   Dissertation: Valuation of Some Nonlinear Financial Contracts by Finite Element Method 
-  Lead Supervisor:: Prof. [Dongming Wei], [Nazarbayev University].
-  External Supervisor: Prof. [Yogi Erlangga], [Zayed University].
-  Currently: Postdoctoral Researcher at [Umea University], [Sweden].
-  Thesis: *Title of thesis.*
+  
+  Lead Supervisor:: Prof. Dongming Wei, Nazarbayev University.
+  
+  External Supervisor: Prof. Yogi Erlangga, Zayed University.
+  
+  Currently: Postdoctoral Researcher at Umea University, Sweden.
+  
 
 - **Daniyar Kazidenov** (Research Assistant, April 2022 – December 2025)
-  Thesis: *Title of thesis.*
-  Currently: PhD student at [Khalifa Univesity], [UAE].
+  Research topic: CFD–DEM models in Subsurface Applications
+  Currently: PhD student at Khalifa Univesity, UAE.
  
  - **Student Name** — MSc, year  
   Thesis: *Title of thesis.*
