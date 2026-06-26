@@ -42,8 +42,25 @@ redirect_from:
   
   Currently: PhD student at Khalifa Univesity, UAE.
  
- - **Student Name** — MSc, year  
-  Thesis: *Title of thesis.*
+ 
+ - **Arman Abylkassimov** (Research Assistant, April 2022 – December 2025)
+  
+  Research topic: CFD–DEM models in Subsurface Applications
+  
+  Currently: PhD student at National univesity of Singapore, Singapore.
+  
+   
+ - **Bakytzhan Kurmanbek** (Research Assistant, April 2022 – December 2025)
+  
+  Research topic: CFD–DEM models in Subsurface Applications
+  
+  After graduation, he pursued an MSc degree at UBC, Canada.
+  
+  Currently: About to start PhD in Berlin, Germany.
+ 
+ - **Bakdauren Narbayev** — MSc, year  
+  
+  After graduation, he pursued an MSc degree at UBC, Canada.
 
 ---
 
