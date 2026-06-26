@@ -11,7 +11,7 @@ redirect_from:
 
 ### PhD Students
 
-- **Student Name** — PhD student, Nazarbayev University  
+- **Aibike Nagyz** — PhD student, Nazarbayev University  
   Research topic: Numerical methods for multiphase flow and porous media.
 
 ### MSc Students
@@ -21,9 +21,21 @@ redirect_from:
 
 ---
 
-## Former Students
+## Former Students/Research Assistants
 
-- **Student Name** — MSc, year  
+- **Rakhymzhan Kazbek** (PhD Student, Nazarbayev Univesity, August 2020 – May 2024)
+  **Role** Co-Supervisor
+  Dissertation: Valuation of Some Nonlinear Financial Contracts by Finite Element Method 
+  Lead Supervisor:: Prof. [Dongming Wei], [Nazarbayev University].
+  External Supervisor: Prof. [Yogi Erlangga], [Zayed University].
+  Currently: Postdoctoral Researcher at [Umea University], [Sweden].
+  Thesis: *Title of thesis.*
+
+- **Daniyar Kazidenov** (Research Assistant, April 2022 – December 2025)
+  Thesis: *Title of thesis.*
+  Currently: PhD student at [Khalifa Univesity], [UAE].
+ 
+ - **Student Name** — MSc, year  
   Thesis: *Title of thesis.*
 
 ---
