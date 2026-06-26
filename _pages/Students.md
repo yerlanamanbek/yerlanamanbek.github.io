@@ -25,7 +25,7 @@ redirect_from:
 
 - **Rakhymzhan Kazbek** (PhD Student, Nazarbayev Univesity, August 2020 – May 2024)
 
-  **Role** Co-Supervisor
+  Role: Co-Supervisor
   
   Dissertation: Valuation of Some Nonlinear Financial Contracts by Finite Element Method 
   
@@ -37,7 +37,9 @@ redirect_from:
   
 
 - **Daniyar Kazidenov** (Research Assistant, April 2022 – December 2025)
+  
   Research topic: CFD–DEM models in Subsurface Applications
+  
   Currently: PhD student at Khalifa Univesity, UAE.
  
  - **Student Name** — MSc, year  
