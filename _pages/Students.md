@@ -60,14 +60,14 @@ Students interested in research opportunities may contact me by email with a CV,
  
 - **Arman Abylkassimov** (Research Assistant, April 2022 – December 2025)
   
-  Research topic: CFD–DEM models in Subsurface Applications
+  Research topic: DEM models in Material Applications
   
   Currently: PhD student at **National univesity of Singapore**, **Singapore**.
   
    
 - **Bakytzhan Kurmanbek** (Research Assistant, April 2022 – December 2025)
   
-  Research topic: CFD–DEM models in Subsurface Applications
+  Research topic: Matrices Application
   
   After graduation, he pursued an MSc degree at the **University of British Columbia**, **Canada**.
   
