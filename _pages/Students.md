@@ -33,34 +33,34 @@ redirect_from:
   
   External Supervisor: Prof. Yogi Erlangga, Zayed University.
   
-  Currently: Postdoctoral Researcher at Umea University, Sweden.
+  Currently: Postdoctoral Researcher at **Umea University**, **Sweden**.
   
 
 - **Daniyar Kazidenov** (Research Assistant, April 2022 – December 2025)
   
   Research topic: CFD–DEM models in Subsurface Applications
   
-  Currently: PhD student at Khalifa Univesity, UAE.
+  Currently: PhD student at **Khalifa Univesity**, **UAE**.
  
  
 - **Arman Abylkassimov** (Research Assistant, April 2022 – December 2025)
   
   Research topic: CFD–DEM models in Subsurface Applications
   
-  Currently: PhD student at National univesity of Singapore, Singapore.
+  Currently: PhD student at **National univesity of Singapore**, **Singapore**.
   
    
 - **Bakytzhan Kurmanbek** (Research Assistant, April 2022 – December 2025)
   
   Research topic: CFD–DEM models in Subsurface Applications
   
-  After graduation, he pursued an MSc degree at UBC, Canada.
+  After graduation, he pursued an MSc degree at the **University of British Columbia**, **Canada**.
   
   Currently: About to start PhD in Berlin, Germany.
  
 - **Bakdauren Narbayev** — BSc, year  
   
-  After graduation, he pursued an MSc degree at UBC, Canada.
+  After graduation, he pursued an MSc degree at **University of British Columbia**, **Canada**.
 
 ---
 
