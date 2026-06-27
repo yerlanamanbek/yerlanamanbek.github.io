@@ -7,8 +7,6 @@ venue: "Nazarbayev University"
 date: 2020-08-15
 location: "Kazakhstan"
 ---
-## Courses Taught
-
 * [MATH 161](https://sst.nu.edu.kz/mathematics-courses/){:target="_blank"}, *Calculus I* — Instructor, Fall 2019, Fall 2020, Fall 2021, Fall 2023, and Fall 2025.
 
 * [MATH 162](https://sst.nu.edu.kz/mathematics-courses/){:target="_blank"}, *Calculus II* — Instructor.
