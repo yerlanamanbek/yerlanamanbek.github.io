@@ -38,7 +38,7 @@ Students interested in research opportunities may contact me by email with a CV,
 
 
 - **Daulet Kalesh** — (MSc student, May 2025, NU)  
-  Research topic: CFD–DEM modeling and sand production.
+  Research topic: PINN for two phase flow in posrous media.
 
   After graduation, he pursued an PhD degree at the **Nazarbayev University**, **Kazakhstan**.
 
