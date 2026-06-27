@@ -58,14 +58,14 @@ Students interested in research opportunities may contact me by email with a CV,
   Currently: PhD student at **Khalifa Univesity**, **UAE**.
  
  
-- **Arman Abylkassimov** (Research Assistant, April 2022 – December 2025)
+- **Arman Abylkassimov** (Research Assistant, May 2023 – December 2025)
   
   Research topic: DEM models in Material Applications
   
   Currently: PhD student at **National univesity of Singapore**, **Singapore**.
   
    
-- **Bakytzhan Kurmanbek** (Research Assistant, April 2022 – December 2025)
+- **Bakytzhan Kurmanbek** (BSc Student, Research Assistant, April 2022 – December 2025)
   
   Research topic: Matrices Application
   
@@ -73,7 +73,7 @@ Students interested in research opportunities may contact me by email with a CV,
   
   Currently: About to start PhD in Berlin, Germany.
  
-- **Bakdauren Narbayev** — BSc, year  
+- **Bakdauren Narbayev** — (BSc Student, September 2020 – July 2022)  
   
   After graduation, he pursued an MSc degree at **University of British Columbia**, **Canada**.
 
