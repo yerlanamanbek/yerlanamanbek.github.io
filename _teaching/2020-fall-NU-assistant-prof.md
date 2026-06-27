@@ -1,5 +1,5 @@
 ---
-title: "Assistant Professorat NU"
+title: "Assistant Professor at NU"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-fall-NU-assistant-prof
