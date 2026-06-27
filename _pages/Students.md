@@ -29,7 +29,6 @@ Students interested in research opportunities may contact me by email with a CV,
 - **Aibike Nagyz** — PhD student, Nazarbayev University  
   Research topic: Numerical methods for multiphase flow and porous media.
 
-### MSc Students
 
 
 
