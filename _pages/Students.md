@@ -38,13 +38,11 @@ Students interested in research opportunities may contact me by email with a CV,
 
 
 - **Daulet Kalesh** — (MSc student, May 2025, NU)  
-  Research topic: PINN for two phase flow in posrous media.
-
+  Research topic: PINN for two-phase flow in porous media.
   After graduation, he pursued an PhD degree at the **Nazarbayev University**, **Kazakhstan**.
 
 - **Aibike Nagyz** — (MSc student, August 2025, NU)  
-  Research topic: CFD–DEM modeling and sand production.
- 
+  Research topic: Multiscale model for multiphase flow in porous media. 
   After graduation, she pursued an PhD degree at the **Nazarbayev University**, **Kazakhstan**.
 
 - **Yeligay Segizbay** — (BSc student, May 2025, NU)  
