@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-fall-NU-assistant-prof
 venue: "Nazarbayev University"
-date: 2020-15-08
+date: 2020-08-15
 location: "Kazakhstan"
 ---
 ## Courses Taught
