@@ -17,7 +17,7 @@ location: "Kazakhstan"
 
 * [MATH 351](https://sst.nu.edu.kz/mathematics-courses/){:target="_blank"}, *Numerical Methods with Applications* — Instructor, Fall 2024 and Spring 2025.
 
-* [MATH 477](https://sst.nu.edu.kz/mathematics-courses/){:target="_blank"}, *Applied Finite Element Methods* — Instructor.
+* [MATH 477/518](https://sst.nu.edu.kz/mathematics-courses/){:target="_blank"}, *Applied Finite Element Methods* — Instructor.
 
 * [MATH 519](https://sst.nu.edu.kz/mathematics-courses/){:target="_blank"}, *Scientific Computing* — Instructor, Fall 2024 and Fall 2025.
 
