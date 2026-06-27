@@ -49,12 +49,12 @@ Students interested in research opportunities may contact me by email with a CV,
   After graduation, she pursued an PhD degree at the **Nazarbayev University**, **Kazakhstan**.
 
 - **Yeligay Segizbay** — (BSc student, May 2025, NU)  
-  Research topic: CFD–DEM modeling and sand production.
+  Research topic: Multiphase Flow in Porous Media: Analytical, Numerical, and Experimental Investigations.
   
   After graduation, she pursued an MSc degree at the **Purdue University**, **USA**.
 
 - **Alua Nessipbayeva** — (BSc student, May 2025, NU)  
-  Research topic: CFD–DEM modeling and sand production.
+  Research topic: Multiphase Flow in Porous Media: Analytical, Numerical, and Experimental Investigations.
  
 - **Rakhymzhan Kazbek** (PhD Student, Nazarbayev Univesity, August 2020 – May 2024)
 
