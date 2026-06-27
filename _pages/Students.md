@@ -47,7 +47,6 @@ Students interested in research opportunities may contact me by email with a CV,
 
 - **Yeligay Segizbay** — (BSc student, May 2025, NU)  
   Research topic: Multiphase Flow in Porous Media: Analytical, Numerical, and Experimental Investigations.
-  
   After graduation, she pursued an MSc degree at the **Purdue University**, **USA**.
 
 - **Alua Nessipbayeva** — (BSc student, May 2025, NU)  
@@ -58,38 +57,27 @@ Students interested in research opportunities may contact me by email with a CV,
   Role: Co-Supervisor
   
   Dissertation: Valuation of Some Nonlinear Financial Contracts by Finite Element Method 
-  
   Lead Supervisor:: Prof. Dongming Wei, Nazarbayev University.
-  
   External Supervisor: Prof. Yogi Erlangga, Zayed University.
-  
   Currently: Postdoctoral Researcher at **Umea University**, **Sweden**.
   
 
 - **Daniyar Kazidenov** (Research Assistant, April 2022 – December 2025)
-  
   Research topic: CFD–DEM models in Subsurface Applications
-  
   Currently: PhD student at **Khalifa Univesity**, **UAE**.
  
  
 - **Arman Abylkassimov** (Research Assistant, May 2023 – December 2025)
-  
   Research topic: DEM models in Material Applications
-  
   Currently: PhD student at **National univesity of Singapore**, **Singapore**.
   
    
 - **Bakytzhan Kurmanbek** (BSc Student, Research Assistant, April 2019 – May 2021)
-  
   Research topic: Matrices Application
-  
   After graduation, he pursued an MSc degree at the **University of British Columbia**, **Canada**.
-  
   Currently: About to start PhD in Berlin, Germany.
  
 - **Bakdauren Narbayev** — (BSc Student, September 2020 – July 2022)  
-  
   After graduation, he pursued an MSc degree at **University of British Columbia**, **Canada**.
 
 ---
