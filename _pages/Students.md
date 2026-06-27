@@ -1,97 +1,117 @@
 ---
-#layout: archive
+
+layout: archive
 title: "Students"
 permalink: /students/
 author_profile: true
-redirect_from:
-  - /resume
----
+--------------------
 
+<style>
+.student-entry {
+  margin: 0 0 1.35rem 0;
+  padding: 0.9rem 1rem;
+  border-left: 4px solid #2c7fb8;
+  background: #f8fafc;
+  border-radius: 4px;
+  line-height: 1.6;
+}
+
+.student-entry p {
+  margin: 0.25rem 0;
+}
+
+.student-meta {
+  color: #555;
+  font-size: 0.95em;
+}
+</style>
 
 ## Prospective Students
 
 I welcome motivated students interested in:
 
-- Numerical methods for PDEs
-- Finite element methods 
-- CFD–DEM and multiphase flow
-- Physics-informed neural networks (PINN)
-- Porous-media flow, fracture, and transport
-- Scientific computing using MATLAB, Python, and C++
+* Numerical methods for partial differential equations
+* Finite element methods and isogeometric analysis
+* CFD–DEM and multiphase flow
+* Physics-informed neural networks (PINNs)
+* Porous-media flow, fracture, and transport
+* Scientific computing with MATLAB, Python, and C++
 
-Students interested in research opportunities may contact me by email with a CV, transcript, and a short description of their research interests.
-
+Students interested in research opportunities are welcome to contact me by email with a CV, academic transcript, and a brief description of their research interests.
 
 ## Current Students
 
 ### PhD Students
 
-- **Aibike Nagyz** — PhD student, Nazarbayev University  
-  Research topic: Numerical methods for multiphase flow and porous media.
+<div class="student-entry">
+<strong>Aibike Nagyz</strong><br>
+<span class="student-meta">PhD Student, Nazarbayev University | 2025–present</span>
+<p><strong>Research topic:</strong> Numerical methods for multiphase flow and porous media.</p>
+</div>
 
+## Former Students and Research Assistants
 
+<div class="student-entry">
+<strong>Daulet Kalesh</strong><br>
+<span class="student-meta">MSc Student, Nazarbayev University | until May 2025</span>
+<p><strong>Research topic:</strong> CFD–DEM modeling and sand production.</p>
+<p><strong>Current position:</strong> PhD Student, Nazarbayev University, Kazakhstan.</p>
+</div>
 
+<div class="student-entry">
+<strong>Aibike Nagyz</strong><br>
+<span class="student-meta">MSc Student, Nazarbayev University | until August 2025</span>
+<p><strong>Research topic:</strong> CFD–DEM modeling and sand production.</p>
+<p><strong>Current position:</strong> PhD Student, Nazarbayev University, Kazakhstan.</p>
+</div>
 
----
+<div class="student-entry">
+<strong>Yeligay Segizbay</strong><br>
+<span class="student-meta">BSc Student, Nazarbayev University | until May 2025</span>
+<p><strong>Research topic:</strong> Multiphase flow in porous media: analytical, numerical, and experimental investigations.</p>
+<p><strong>Current position:</strong> MSc Student, Purdue University, USA.</p>
+</div>
 
-## Former Students/Research Assistants
+<div class="student-entry">
+<strong>Alua Nessipbayeva</strong><br>
+<span class="student-meta">BSc Student, Nazarbayev University | until May 2025</span>
+<p><strong>Research topic:</strong> Multiphase flow in porous media: analytical, numerical, and experimental investigations.</p>
+</div>
 
+<div class="student-entry">
+<strong>Rakhymzhan Kazbek</strong><br>
+<span class="student-meta">PhD Student, Nazarbayev University | August 2020 – May 2024</span>
+<p><strong>Role:</strong> Co-supervisor.</p>
+<p><strong>Dissertation:</strong> <em>Valuation of Some Nonlinear Financial Contracts by Finite Element Method.</em></p>
+<p><strong>Lead supervisor:</strong> Prof. Dongming Wei, Nazarbayev University.</p>
+<p><strong>External supervisor:</strong> Prof. Yogi Erlangga, Zayed University.</p>
+<p><strong>Current position:</strong> Postdoctoral Researcher, Umeå University, Sweden.</p>
+</div>
 
-- **Daulet Kalesh** — (MSc student, May 2025, NU)  
-  Research topic: CFD–DEM modeling and sand production.
+<div class="student-entry">
+<strong>Daniyar Kazidenov</strong><br>
+<span class="student-meta">Research Assistant | April 2022 – December 2025</span>
+<p><strong>Research topic:</strong> CFD–DEM models in subsurface applications.</p>
+<p><strong>Current position:</strong> PhD Student, Khalifa University, UAE.</p>
+</div>
 
-  After graduation, he pursued an PhD degree at the **Nazarbayev University**, **Kazakhstan**.
+<div class="student-entry">
+<strong>Arman Abylkassimov</strong><br>
+<span class="student-meta">Research Assistant | May 2023 – December 2025</span>
+<p><strong>Research topic:</strong> DEM models in materials applications.</p>
+<p><strong>Current position:</strong> PhD Student, National University of Singapore, Singapore.</p>
+</div>
 
-- **Aibike Nagyz** — (MSc student, August 2025, NU)  
-  Research topic: CFD–DEM modeling and sand production.
- 
-  After graduation, she pursued an PhD degree at the **Nazarbayev University**, **Kazakhstan**.
+<div class="student-entry">
+<strong>Bakytzhan Kurmanbek</strong><br>
+<span class="student-meta">BSc Student and Research Assistant | April 2019 – May 2021</span>
+<p><strong>Research topic:</strong> Matrix applications.</p>
+<p><strong>Education after graduation:</strong> MSc degree, University of British Columbia, Canada.</p>
+<p><strong>Current position:</strong> Preparing to begin a PhD programme in Berlin, Germany.</p>
+</div>
 
-- **Yeligay Segizbay** — (BSc student, May 2025, NU)  
-  Research topic: Multiphase Flow in Porous Media: Analytical, Numerical, and Experimental Investigations.
-  
-  After graduation, she pursued an MSc degree at the **Purdue University**, **USA**.
-
-- **Alua Nessipbayeva** — (BSc student, May 2025, NU)  
-  Research topic: Multiphase Flow in Porous Media: Analytical, Numerical, and Experimental Investigations.
- 
-- **Rakhymzhan Kazbek** (PhD Student, Nazarbayev Univesity, August 2020 – May 2024)
-
-  Role: Co-Supervisor
-  
-  Dissertation: Valuation of Some Nonlinear Financial Contracts by Finite Element Method 
-  
-  Lead Supervisor:: Prof. Dongming Wei, Nazarbayev University.
-  
-  External Supervisor: Prof. Yogi Erlangga, Zayed University.
-  
-  Currently: Postdoctoral Researcher at **Umea University**, **Sweden**.
-  
-
-- **Daniyar Kazidenov** (Research Assistant, April 2022 – December 2025)
-  
-  Research topic: CFD–DEM models in Subsurface Applications
-  
-  Currently: PhD student at **Khalifa Univesity**, **UAE**.
- 
- 
-- **Arman Abylkassimov** (Research Assistant, May 2023 – December 2025)
-  
-  Research topic: DEM models in Material Applications
-  
-  Currently: PhD student at **National univesity of Singapore**, **Singapore**.
-  
-   
-- **Bakytzhan Kurmanbek** (BSc Student, Research Assistant, April 2019 – May 2021)
-  
-  Research topic: Matrices Application
-  
-  After graduation, he pursued an MSc degree at the **University of British Columbia**, **Canada**.
-  
-  Currently: About to start PhD in Berlin, Germany.
- 
-- **Bakdauren Narbayev** — (BSc Student, September 2020 – July 2022)  
-  
-  After graduation, he pursued an MSc degree at **University of British Columbia**, **Canada**.
-
----
+<div class="student-entry">
+<strong>Bakdauren Narbayev</strong><br>
+<span class="student-meta">BSc Student, Nazarbayev University | September 2020 – July 2022</span>
+<p><strong>Education after graduation:</strong> MSc degree, University of British Columbia, Canada.</p>
+</div>
