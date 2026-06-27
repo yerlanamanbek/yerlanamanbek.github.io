@@ -54,7 +54,7 @@ Students interested in research opportunities are welcome to contact me by email
 <div class="student-entry">
 <strong>Daulet Kalesh</strong><br>
 <span class="student-meta">MSc Student, Nazarbayev University | until May 2025</span>
-<p><strong>Research topic:</strong> CFD–DEM modeling and sand production.</p>
+<p><strong>Research topic:</strong> PINN for two phase flow in porous media.</p>
 <p><strong>Current position:</strong> PhD Student, Nazarbayev University, Kazakhstan.</p>
 </div>
 
