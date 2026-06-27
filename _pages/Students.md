@@ -29,7 +29,8 @@ Students interested in research opportunities may contact me by email with a CV,
 - **Aibike Nagyz** — PhD student, Nazarbayev University  
   Research topic: Numerical methods for multiphase flow and porous media.
 
-
+- **Daulet Kalesh** — PhD student, Nazarbayev University  
+  Research topic: PINN for two-phase flow in porous media.
 
 
 ---
@@ -53,12 +54,11 @@ Students interested in research opportunities may contact me by email with a CV,
   Research topic: Multiphase Flow in Porous Media: Analytical, Numerical, and Experimental Investigations.
  
 - **Rakhymzhan Kazbek** (PhD Student, Nazarbayev Univesity, August 2020 – May 2024)
-
   Role: Co-Supervisor
-  
   Dissertation: Valuation of Some Nonlinear Financial Contracts by Finite Element Method 
   Lead Supervisor:: Prof. Dongming Wei, Nazarbayev University.
   External Supervisor: Prof. Yogi Erlangga, Zayed University.
+  
   Currently: Postdoctoral Researcher at **Umea University**, **Sweden**.
   
 
