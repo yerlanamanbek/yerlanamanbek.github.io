@@ -46,7 +46,13 @@ Students interested in research opportunities may contact me by email with a CV,
   Research topic: CFD–DEM modeling and sand production.
  After graduation, she pursued an PhD degree at the **Nazarbayev University**, **Kazakhstan**.
 
+- **Yeligay Segizbay** — (BSc student, May 2025, NU)  
+  Research topic: CFD–DEM modeling and sand production.
+  After graduation, she pursued an MSc degree at the **Purdue University**, **USA**.
 
+- **Alua Nessipbayeva** — (BSc student, May 2025, NU)  
+  Research topic: CFD–DEM modeling and sand production.
+ 
 - **Rakhymzhan Kazbek** (PhD Student, Nazarbayev Univesity, August 2020 – May 2024)
 
   Role: Co-Supervisor
