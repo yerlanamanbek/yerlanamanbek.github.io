@@ -69,15 +69,15 @@ Students interested in research opportunities may contact me by email with a CV,
  
 - **Arman Abylkassimov** (Research Assistant, May 2023 – December 2025)
   Research topic: DEM models in Material Applications
-  Currently: PhD student at **National univesity of Singapore**, **Singapore**.
+  Currently: PhD student at **National Univesity of Singapore(NUS)**, **Singapore**.
   
    
 - **Bakytzhan Kurmanbek** (BSc Student, Research Assistant, April 2019 – May 2021)
   Research topic: Matrices Application
-  After graduation, he pursued an MSc degree at the **University of British Columbia**, **Canada**.
+  After graduation, he pursued an MSc degree at the **University of British Columbia(UBC)**, **Canada**.
   Currently: About to start PhD in Berlin, Germany.
  
 - **Bakdauren Narbayev** — (BSc Student, September 2020 – July 2022)  
-  After graduation, he pursued an MSc degree at **University of British Columbia**, **Canada**.
+  After graduation, he pursued an MSc degree at **University of British Columbia(UBC)**, **Canada**.
 
 ---
