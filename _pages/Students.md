@@ -31,12 +31,21 @@ Students interested in research opportunities may contact me by email with a CV,
 
 ### MSc Students
 
-- **Student Name** — MSc student, Nazarbayev University  
-  Research topic: CFD–DEM modeling and sand production.
+
 
 ---
 
 ## Former Students/Research Assistants
+
+
+- **Daulet Kalesh** — (MSc student, May 2025, NU)  
+  Research topic: CFD–DEM modeling and sand production.
+  After graduation, he pursued an PhD degree at the **Nazarbayev University**, **Kazakhstan**.
+
+- **Aibike Nagyz** — (MSc student, August 2025, NU)  
+  Research topic: CFD–DEM modeling and sand production.
+ After graduation, she pursued an PhD degree at the **Nazarbayev University**, **Kazakhstan**.
+
 
 - **Rakhymzhan Kazbek** (PhD Student, Nazarbayev Univesity, August 2020 – May 2024)
 
@@ -65,7 +74,7 @@ Students interested in research opportunities may contact me by email with a CV,
   Currently: PhD student at **National univesity of Singapore**, **Singapore**.
   
    
-- **Bakytzhan Kurmanbek** (BSc Student, Research Assistant, April 2022 – December 2025)
+- **Bakytzhan Kurmanbek** (BSc Student, Research Assistant, April 2019 – May 2021)
   
   Research topic: Matrices Application
   
