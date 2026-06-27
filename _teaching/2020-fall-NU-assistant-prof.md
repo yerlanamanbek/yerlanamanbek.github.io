@@ -7,11 +7,11 @@ venue: "Nazarbayev University"
 date: 2020-08-15
 location: "Kazakhstan"
 ---
-* [MATH 161](https://sst.nu.edu.kz/mathematics-courses/){:target="_blank"}, *Calculus I* — Instructor, Fall 2019, Fall 2020, Fall 2021, Fall 2023, and Fall 2025.
-* [MATH 162](https://sst.nu.edu.kz/mathematics-courses/){:target="_blank"}, *Calculus II* — Instructor.
-* [MATH 274](https://sst.nu.edu.kz/mathematics-courses/){:target="_blank"}, *Introduction to Differential Equations* — Instructor.
-* [MATH 351](https://sst.nu.edu.kz/mathematics-courses/){:target="_blank"}, *Numerical Methods with Applications* — Instructor, Fall 2024 and Spring 2025.
-* [MATH 477/518](https://sst.nu.edu.kz/mathematics-courses/){:target="_blank"}, *Applied Finite Element Methods* — Instructor.
-* [MATH 519](https://sst.nu.edu.kz/mathematics-courses/){:target="_blank"}, *Scientific Computing* — Instructor, Fall 2024 and Fall 2025.
-* [MATH 551](https://sst.nu.edu.kz/mathematics-courses/){:target="_blank"}, *Advanced Numerical Methods* — Instructor.
+* [MATH 161](https://ssh.nu.edu.kz/dm_bsc){:target="_blank"}, *Calculus I* — Instructor, Fall 2019, Fall 2020, Fall 2021, Fall 2023, and Fall 2025.
+* [MATH 162](https://ssh.nu.edu.kz/dm_bsc){:target="_blank"}, *Calculus II* — Instructor.
+* [MATH 274](https://ssh.nu.edu.kz/dm_bsc){:target="_blank"}, *Introduction to Differential Equations* — Instructor.
+* [MATH 351](https://ssh.nu.edu.kz/dm_bsc){:target="_blank"}, *Numerical Methods with Applications* — Instructor, Fall 2024 and Spring 2025.
+* [MATH 477/518](https://ssh.nu.edu.kz/dm_bsc){:target="_blank"}, *Applied Finite Element Methods* — Instructor.
+* [MATH 519](https://ssh.nu.edu.kz/dm_bsc){:target="_blank"}, *Scientific Computing* — Instructor, Fall 2024 and Fall 2025.
+* [MATH 551](https://ssh.nu.edu.kz/dm_bsc){:target="_blank"}, *Advanced Numerical Methods* — Instructor.
   
