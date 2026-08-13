@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently an Assistant Professor at the Department of Mathematics, Nazarbayev University, Kazakhstan.
+I am currently an Assistant Professor at the School of Computing and Artificial Intelligence (SCAI), Nazarbayev University, Astana, Kazakhstan.
 
 I received a Ph.D. in Computational Science, Engineering and Mathematics (CSEM) at 
 the [Oden Institute for Computational Engineering and Sciences (ICES)](https://www.oden.utexas.edu/){:target="_blank"}  in the University of Texas at Austin, 
