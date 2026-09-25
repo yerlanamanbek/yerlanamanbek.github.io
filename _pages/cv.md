@@ -113,7 +113,7 @@ Nazarbayev University, Astana, Kazakhstan
 | Year | Recognition |
 |:-----|:------------|
 | **2026** | **Fellow of the Higher Education Academy (FHEA)**, Advance HE |
-| **2025** | **Best Paper Award**, International Conference on Computational Science and Its Applications (ICCSA), shared with coauthors |
+| **2025** | **[Best Paper Award]({{ base_path }}/posts/2025/07/blog-post-9/)**, International Conference on Computational Science and Its Applications (ICCSA), shared with coauthors. [NU award record](https://research.nu.edu.kz/en/prizes/the-best-paper-award-at-iccsa-2025/){:target="_blank" rel="noopener"} |
 | **2024** | **[Best Researcher 2023 Award](https://ssh.nu.edu.kz/tpost/6lc62pydc1-ssh-professors-win-best-researcher-of-th){:target="_blank" rel="noopener"}**, Ministry of Science and Higher Education, Kazakhstan |
 | **2018** | Graduate School Summer Fellowship, The University of Texas at Austin, USA |
 | **2017** | **[Best Poster Award](https://oden.utexas.edu/news-and-events/news/csems-amanbek-receives-top-poster-award-at-tames/){:target="_blank" rel="noopener"}**, Texas Applied Mathematics and Engineering Symposium (TAMES), USA |
