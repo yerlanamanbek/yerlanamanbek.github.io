@@ -9,13 +9,101 @@ redirect_from:
 
 {% include base_path %}
 
+<style>
+.cv-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 1.25rem 0 2rem;
+}
+
+.cv-nav-label {
+  flex-basis: 100%;
+  margin-bottom: 0.2rem;
+  font-size: 0.85em;
+  font-weight: 600;
+}
+
+.cv-nav a,
+.cv-nav a:visited {
+  display: inline-block;
+  padding: 0.45rem 0.8rem;
+  border: 1px solid #1765ad;
+  border-radius: 6px;
+  background: #f0f7ff;
+  color: #155a9c;
+  font-size: 0.85em;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.cv-nav a:hover,
+.cv-nav a:focus-visible {
+  background: #155a9c;
+  color: #ffffff;
+  text-decoration: underline;
+}
+
+.cv-nav a:focus-visible,
+a.cv-download:focus-visible,
+a.cv-more:focus-visible {
+  outline: 3px solid #155a9c;
+  outline-offset: 3px;
+}
+
+a.cv-download,
+a.cv-download:visited {
+  display: inline-block;
+  padding: 0.65rem 1rem;
+  border: 1px solid #155a9c;
+  border-radius: 6px;
+  background: #155a9c;
+  color: #ffffff;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+a.cv-download:hover {
+  background: #104779;
+  text-decoration: underline;
+}
+
+a.cv-more,
+a.cv-more:visited {
+  color: #155a9c;
+  font-weight: 600;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+h2[id] {
+  scroll-margin-top: 5rem;
+}
+
+@media print {
+  .cv-nav,
+  .cv-download {
+    display: none !important;
+  }
+}
+</style>
+
 **Assistant Professor**  
 School of Computing and Artificial Intelligence (SCAI)  
 Nazarbayev University, Astana, Kazakhstan
 
-[Download full CV (PDF)]({{ base_path }}/files/documents/CV_Yerlan.pdf){: .btn .btn--primary target="_blank" rel="noopener"}
+[Download full CV (PDF)]({{ base_path }}/files/documents/CV_Yerlan.pdf){: .cv-download target="_blank" rel="noopener"}
 
-[Recognition](#recognition) · [Education](#education) · [Research](#research) · [Publications](#publications) · [Teaching](#teaching) · [Service](#service)
+<nav class="cv-nav" aria-label="CV sections">
+  <span class="cv-nav-label">Jump to a section:</span>
+  <a href="#recognition">Recognition</a>
+  <a href="#education">Education</a>
+  <a href="#research">Research</a>
+  <a href="#publications">Publications</a>
+  <a href="#teaching">Teaching</a>
+  <a href="#talks">Talks</a>
+  <a href="#service">Service</a>
+</nav>
 
 ## Honors, Awards & Recognition
 {: #recognition }
@@ -48,22 +136,30 @@ Nazarbayev University, Astana, Kazakhstan
 ## Research Interests
 {: #research }
 
-- **Numerical analysis and scientific computing:** finite element methods, domain decomposition, multiscale methods, and a priori and a posteriori error analysis.
-- **Flow and transport in porous media:** numerical modeling of multiphase flow, heterogeneous media, and coupled processes.
-- **Computational mechanics:** CFD–DEM modeling, fracture processes, and sand production.
-- **Scientific machine learning:** physics-informed neural networks and data-driven modeling for flow and transport.
+- **Numerical analysis and scientific computing:** finite element methods,
+  domain decomposition, multiscale methods, and a priori and a posteriori
+  error analysis.
+- **Flow and transport in porous media:** numerical modeling of multiphase
+  flow, heterogeneous media, and coupled processes.
+- **Computational mechanics:** CFD–DEM modeling, fracture processes,
+  and sand production.
+- **Scientific machine learning:** physics-informed neural networks
+  and data-driven modeling for flow and transport.
 
 ## Recent Publications
 {: #publications }
 
-The six most recent entries are listed below. See the
-[full publication list]({{ base_path }}/publications/) for all papers.
+The six most recent publications are listed below.
+
+{% assign recent_publications = site.publications | sort: "date" | reverse %}
 
 <ul>
-{% for post in site.publications reversed limit:6 %}
+{% for post in recent_publications limit:6 %}
   {% include archive-single-cv.html %}
 {% endfor %}
 </ul>
+
+[View all publications →]({{ base_path }}/publications/){: .cv-more }
 
 ## Teaching & Supervision
 {: #teaching }
@@ -71,32 +167,36 @@ The six most recent entries are listed below. See the
 My teaching includes numerical methods, scientific computing, calculus,
 differential equations, and finite element methods.
 
-For course details and teaching experience, see the
-[Teaching page]({{ base_path }}/teaching/).
+[View teaching experience and courses →]({{ base_path }}/teaching/){: .cv-more }
 
-For research supervision, see the
-[Students page]({{ base_path }}/students/).
+[View research students and supervision →]({{ base_path }}/students/){: .cv-more }
 
-## Selected Talks
+## Talks & Presentations
+{: #talks }
+
+{% assign recent_talks = site.talks | sort: "date" | reverse %}
 
 <ul>
-{% for post in site.talks reversed limit:3 %}
+{% for post in recent_talks limit:3 %}
   {% include archive-single-talk-cv.html %}
 {% endfor %}
 </ul>
 
-[View all talks]({{ base_path }}/talks/)
+[View all talks →]({{ base_path }}/talks/){: .cv-more }
 
 ## Academic Leadership & Service
 {: #service }
 
 - **Deputy Chair**, Republican Student Subject Olympiad in Mathematics
   (6B054), Nazarbayev University, 2026.
+
 - **Journal reviewing:** reviewer for
   [Journal of Computational Physics](https://www.journals.elsevier.com/journal-of-computational-physics){:target="_blank" rel="noopener"}
   (2019).
+
 - **Team Leader**, Nazarbayev University team at the Al-Khorezmi
   International Mathematical Olympiad, Urgench, Uzbekistan, 2018.
+
 - **Team Leader**, Nazarbayev University teams at the 19th and 20th
   International Mathematics Competition for University Students,
   Blagoevgrad, Bulgaria, 2012 and 2013. Responsibilities included
