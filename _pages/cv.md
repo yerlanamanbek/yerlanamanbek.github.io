@@ -112,7 +112,7 @@ Nazarbayev University, Astana, Kazakhstan
 
 | Year | Recognition |
 |:-----|:------------|
-| **2026** | **Fellow of the Higher Education Academy (FHEA)**, Advance HE |
+| **2026** | **[Fellow of the Higher Education Academy (FHEA)](https://www.linkedin.com/posts/yerlan-amanbek_advancehe-fhea-highereducation-activity-7465347515928698880-AfOm){:target="_blank" rel="noopener"}**, Advance HE |
 | **2025** | **[Best Paper Award]({{ base_path }}/posts/2025/07/blog-post-9/)**, International Conference on Computational Science and Its Applications (ICCSA), shared with coauthors. [NU award record](https://research.nu.edu.kz/en/prizes/the-best-paper-award-at-iccsa-2025/){:target="_blank" rel="noopener"} |
 | **2024** | **[State Scientific Scholarship for Young Researchers](https://nu.edu.kz/news-en/nu-and-nla-scientists-honored-with-state-awards-and-scientific-scholarships/){:target="_blank" rel="noopener"}**, Ministry of Science and Higher Education of the Republic of Kazakhstan |
 | **2023** | **[Best Researcher 2023 Award](https://ssh.nu.edu.kz/tpost/6lc62pydc1-ssh-professors-win-best-researcher-of-th){:target="_blank" rel="noopener"}**, Ministry of Science and Higher Education, Kazakhstan |
