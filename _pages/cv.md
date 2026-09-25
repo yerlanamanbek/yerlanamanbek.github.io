@@ -1,4 +1,115 @@
 ---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
+
+**Assistant Professor**  
+School of Computing and Artificial Intelligence (SCAI)  
+Nazarbayev University, Astana, Kazakhstan
+
+[Download full CV (PDF)]({{ base_path }}/files/documents/CV_Yerlan.pdf){: .btn .btn--primary target="_blank" rel="noopener"}
+
+[Recognition](#recognition) · [Education](#education) · [Research](#research) · [Publications](#publications) · [Teaching](#teaching) · [Service](#service)
+
+## Honors, Awards & Recognition
+{: #recognition }
+
+<!-- Verify the exact ICCSA award title and add the awarded paper title/link. -->
+
+| Year | Recognition |
+|:-----|:------------|
+| **2026** | **Fellow of the Higher Education Academy (FHEA)**, Advance HE |
+| **2025** | **Best Paper Award**, International Conference on Computational Science and Its Applications (ICCSA), shared with coauthors |
+| **2024** | **[Best Researcher 2023 Award](https://ssh.nu.edu.kz/tpost/6lc62pydc1-ssh-professors-win-best-researcher-of-th){:target="_blank" rel="noopener"}**, Ministry of Science and Higher Education, Kazakhstan |
+| **2018** | Graduate School Summer Fellowship, The University of Texas at Austin, USA |
+| **2017** | **[Best Poster Award](https://oden.utexas.edu/news-and-events/news/csems-amanbek-receives-top-poster-award-at-tames/){:target="_blank" rel="noopener"}**, Texas Applied Mathematics and Engineering Symposium (TAMES), USA |
+| **2017** | Research Experience in Carbon Sequestration (RECS) Program Award, USA |
+| **2017** | SIAM Travel Award, USA |
+| **2016** | CIME Foundation and CIRM Grant, Italy |
+
+## Education
+{: #education }
+
+**Ph.D. in Computational Science, Engineering & Mathematics**  
+[The University of Texas at Austin](https://www.utexas.edu/){:target="_blank" rel="noopener"}, USA · 2018
+
+**M.Sc. in Information Technology**  
+[Nanyang Technological University](https://www.ntu.edu.sg/){:target="_blank" rel="noopener"}, Singapore · 2009
+
+**B.Sc. in Applied Mathematics and Computer Science**  
+[Al-Farabi Kazakh National University](https://kaznu.kz/en){:target="_blank" rel="noopener"}, Kazakhstan · 2006
+
+## Research Interests
+{: #research }
+
+- **Numerical analysis and scientific computing:** finite element methods, domain decomposition, multiscale methods, and a priori and a posteriori error analysis.
+- **Flow and transport in porous media:** numerical modeling of multiphase flow, heterogeneous media, and coupled processes.
+- **Computational mechanics:** CFD–DEM modeling, fracture processes, and sand production.
+- **Scientific machine learning:** physics-informed neural networks and data-driven modeling for flow and transport.
+
+## Recent Publications
+{: #publications }
+
+The six most recent entries are listed below. See the
+[full publication list]({{ base_path }}/publications/) for all papers.
+
+<ul>
+{% for post in site.publications reversed limit:6 %}
+  {% include archive-single-cv.html %}
+{% endfor %}
+</ul>
+
+## Teaching & Supervision
+{: #teaching }
+
+My teaching includes numerical methods, scientific computing, calculus,
+differential equations, and finite element methods.
+
+For course details and teaching experience, see the
+[Teaching page]({{ base_path }}/teaching/).
+
+For research supervision, see the
+[Students page]({{ base_path }}/students/).
+
+## Selected Talks
+
+<ul>
+{% for post in site.talks reversed limit:3 %}
+  {% include archive-single-talk-cv.html %}
+{% endfor %}
+</ul>
+
+[View all talks]({{ base_path }}/talks/)
+
+## Academic Leadership & Service
+{: #service }
+
+- **Deputy Chair**, Republican Student Subject Olympiad in Mathematics
+  (6B054), Nazarbayev University, 2026.
+- **Journal reviewing:** reviewer for
+  [Journal of Computational Physics](https://www.journals.elsevier.com/journal-of-computational-physics){:target="_blank" rel="noopener"}
+  (2019).
+- **Team Leader**, Nazarbayev University team at the Al-Khorezmi
+  International Mathematical Olympiad, Urgench, Uzbekistan, 2018.
+- **Team Leader**, Nazarbayev University teams at the 19th and 20th
+  International Mathematics Competition for University Students,
+  Blagoevgrad, Bulgaria, 2012 and 2013. Responsibilities included
+  coordinating selection with faculty, mentoring students, and
+  organizing team participation. Team achievements included
+  [competition medals](https://nu.edu.kz/news/nazarbayev-university-students-won-a-silver-medal-at-international-mathematical-competition){:target="_blank" rel="noopener"}.
+
+---
+
+*Last updated: September 2026.*
+
+
+<!-----
 #layout: archive
 title: "CV"
 permalink: /cv/
@@ -23,6 +134,7 @@ a posteriori and a priorri error analysis, robust and efficient solution algorit
 
 Recent Awards
 ======
+* [Best Paper Award](https://ssh.nu.edu.kz/tpost/6lc62pydc1-ssh-professors-win-best-researcher-of-th){:target="_blank"}{:target="_blank"}, Ministry of Science and Higher Education, Kazakhstan, 2024
 * [Best Researcher 2023 award](https://ssh.nu.edu.kz/tpost/6lc62pydc1-ssh-professors-win-best-researcher-of-th){:target="_blank"}{:target="_blank"}, Ministry of Science and Higher Education, Kazakhstan, 2024
 * Graduate School Summer Fellowship, the University of Texas at Austin, 2018
 * Texas Applied Math & Eng Symposium (TAMES) [Best Poster Award](https://oden.utexas.edu/news-and-events/news/csems-amanbek-receives-top-poster-award-at-tames/){:target="_blank"}{:target="_blank"}, USA, 2017
