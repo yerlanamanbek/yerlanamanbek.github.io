@@ -1,4 +1,4 @@
----
+<!-- ---
 permalink: /
 title: "About"
 excerpt: "Yerlan Amanbek — numerical methods, scientific computing, and physics-informed machine learning."
@@ -87,12 +87,9 @@ In 2017, I was selected to participate in the **Research Experience in Carbon Se
 My teaching interests include numerical methods, scientific computing, differential equations, and finite element methods.
 
 [Teaching]({{ '/teaching/' | relative_url }}) · [Students and supervision]({{ '/students/' | relative_url }})
+-->
 
-
-
-
-
-<!-- ---
+ ---
 permalink: /
 title: "About"
 excerpt: "About me"
