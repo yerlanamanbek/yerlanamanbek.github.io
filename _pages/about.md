@@ -86,8 +86,7 @@ In 2017, I was selected to participate in the **Research Experience in Carbon Se
 
 My teaching interests include numerical methods, scientific computing, differential equations, and finite element methods.
 
-[Teaching]({{ '/teaching/' | relative_url }}) · [Students and supervision]({{ '/students/' | relative_url }})
--->
+[Teaching]({{ '/teaching/' | relative_url }}) · [Students and supervision]({{ '/students/' | relative_url }})-->
 ---
 permalink: /
 title: "About"
