@@ -88,8 +88,7 @@ My teaching interests include numerical methods, scientific computing, different
 
 [Teaching]({{ '/teaching/' | relative_url }}) · [Students and supervision]({{ '/students/' | relative_url }})
 -->
-
- ---
+---
 permalink: /
 title: "About"
 excerpt: "About me"
